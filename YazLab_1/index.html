@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Kargo Takip 1.GUI</title>
+    <!--
+
+    Template 2103 Central
+
+	http://www.tooplate.com/view/2103-central
+
+    -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">
+    <!-- Google web font "Open Sans" -->
+    <link rel="stylesheet" href="font-awesome-4.5.0/css/font-awesome.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="slick/slick.css" />
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
+    <link rel="stylesheet" href="css/tooplate-style.css">
+
+    <!-- tooplate style -->
+    <script>
+        if (!crossOriginIsolated) SharedArrayBuffer = ArrayBuffer;
+    </script>
+    <script>
+        var renderPage = true;
+
+        if (navigator.userAgent.indexOf('MSIE') !== -1 ||
+            navigator.appVersion.indexOf('Trident/') > 0) {
+            /* Microsoft Internet Explorer detected in. */
+            alert("Please view this in a modern browser such as Chrome or Microsoft Edge.");
+            renderPage = false;
+        }
+    </script>
+
+</head>
+
+<body>
+    <div id="login_section" style="display: initial;">
+        <form class="login-form" id="form_submit">
+            <p class="login-text">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-lock fa-stack-1x"></i>
+                </span>
+            </p>
+            <input type="email" class="login-username" autofocus="true" required="true" placeholder="Email"
+                id="email_text" />
+            <input type="password" class="login-password" required="true" placeholder="Password" id="password_text" />
+            <input type="submit" name="Login" value="Login" class="login-submit" />
+        </form>
+        <a href="#" class="login-forgot-pass" id="forgot_password">forgot password?</a>
+        <div class="underlay-photo"></div>
+        <div class="underlay-black"></div>
+    </div>
+    <div id="forgot_password_section" style="display: none;">
+        <form class="login-form" id="form_submit_p">
+            <p class="login-text">
+                <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-lock fa-stack-1x"></i>
+                </span>
+            </p>
+            <input type="email" class="login-username" autofocus="true" required="true" placeholder="Email"
+                id="email_text_p" />
+            <input type="password" class="login-password" required="true" placeholder="New Password" id="password_text_p" />
+            <input type="password" class="login-password" required="true" placeholder="New Password Again" id="password_text_again_p" />
+            <input type="text" class="login-password" required="true" placeholder="Verification Code" id="code" />
+            <input type="submit" name="Login" value="Login" class="login-submit" />
+        </form>
+        <div class="underlay-photo"></div>
+        <div class="underlay-black"></div>
+    </div>
+    <div id="google_maps_api_section" style="display: none;">
+        <!-- Loader -->
+        <div id="loader-wrapper">
+            <div id="loader"></div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+        <div class="container">
+            <section class="tm-section-head" id="top">
+                <header id="header" class="text-center tm-text-gray">
+                    <h1>KARGO TAKİP PROJESİ</h1>
+                    <h3>Muhammet Zahit Aydın , Yavuz Sefa Kırıkçı</h3>
+                </header>
+
+            </section>
+
+            <section class="row" id="tm-section-1">
+                <div id="map" style="height: 300px; width: 500px;"></div>
+            </section>
+
+            <section class="tm-section-2 tm-section-mb" id="tm-section-2">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-6 mb-lg-0 mb-md-5 mb-5 pr-md-5" id = "deliveryStatus">
+                        <h2>Teslimat Durumu</h2>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 mb-lg-0 mb-md-5 mb-5 pr-md-5" id = "deliveryOrder">
+                        <h2>Teslimat Sırası</h2>
+                    </div>
+
+                    <div class="col-xl-4 col-lg-4 col-md-12">
+                        <h2>Kargo Ekleme ve Silme İşlemleri</h2>
+                        <p>Manuel Kargo Adresi Ekleme</p>
+                        <input type="text"  placeholder="Latitude" id="lat" />
+                        <input type="text"  placeholder="Longitude" id="lng" / />
+                        <button id="add_location"> Ekle </button>
+                        <p>            Kocaeli için lokasyon sınırları      </p>
+                        <p>lat(40.761 - 40.782) lng(29.904 - 29.975)</p>
+                        <br><br>
+                        <button id="move"> Kargocuyu Hareket Ettir </button>
+                        <br><br>
+                        <select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example"
+                            onchange="selectCargo()" id="select_cargo">
+                        </select>
+                        <button id="delete_cargo">Kargo Sil</button>
+                    </div>
+                </div>
+            </section>
+
+            <footer class="mt-5">
+                <p class="text-center">KOCAELİ ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ</p>
+            </footer>
+        </div>
+    </div>
+
+    <script>
+        if (typeof module === 'object') {
+            window.module = module;
+            module = undefined;
+        }
+    </script>
+    <!-- load JS files -->
+    <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <!-- https://popper.js.org/ -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- https://getbootstrap.com/ -->
+    <script type="text/javascript" src="slick/slick.min.js"></script>
+    <!-- Slick Carousel -->
+
+    <script>
+        function setCarousel() {
+            var slider = $('.tm-img-slider');
+
+            if (slider.hasClass('slick-initialized')) {
+                slider.slick('destroy');
+            }
+
+            if ($(window).width() > 991) {
+                // Slick carousel
+                slider.slick({
+                    autoplay: true,
+                    fade: true,
+                    speed: 800,
+                    infinite: true,
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                });
+            } else {
+                slider.slick({
+                    autoplay: true,
+                    fade: true,
+                    speed: 800,
+                    infinite: true,
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                });
+            }
+        }
+
+        $(document).ready(function () {
+            if (renderPage) {
+                $('body').addClass('loaded');
+            }
+
+            setCarousel();
+
+            $(window).resize(function () {
+                setCarousel();
+            });
+
+            // Close menu after link click
+            $('.nav-link').click(function () {
+                $('#mainNav').removeClass('show');
+            });
+
+            // https://css-tricks.com/snippets/jquery/smooth-scrolling/
+            // Select all links with hashes
+            $('a[href*="#"]')
+                // Remove links that don't actually link to anything
+                .not('[href="#"]')
+                .not('[href="#0"]')
+                .click(function (event) {
+                    // On-page links
+                    if (
+                        location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') &&
+                        location.hostname == this.hostname
+                    ) {
+                        // Figure out element to scroll to
+                        var target = $(this.hash);
+                        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                        // Does a scroll target exist?
+                        if (target.length) {
+                            // Only prevent default if animation is actually gonna happen
+                            event.preventDefault();
+                            $('html, body').animate({
+                                scrollTop: target.offset().top + 1
+                            }, 1000, function () {
+                                // Callback after animation
+                                // Must change focus!
+                                var $target = $(target);
+                                $target.focus();
+                                if ($target.is(
+                                        ":focus")) { // Checking if the target was focused
+                                    return false;
+                                } else {
+                                    $target.attr('tabindex',
+                                        '-1'); // Adding tabindex for elements not focusable
+                                    $target.focus(); // Set focus again
+                                };
+                            });
+                        }
+                    }
+                });
+        });
+    </script>
+    <script src="./main.js"></script>
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDoDu0AvF3Sml9g12Mx5Qx9fO5w-LQ7wOU&callback=initMap&v=weekly"
+        async></script>
+    <script>
+        if (window.module) module = window.module;
+    </script>
+</body>
+
+</html>
