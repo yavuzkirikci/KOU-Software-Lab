@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Proje3</title>
+	<link type="text/css" href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link type="text/css" href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+	<link type="text/css" href="css/theme.css" rel="stylesheet">
+	<link type="text/css" href="images/icons/css/font-awesome.css" rel="stylesheet">
+	<link type="text/css" href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600'
+		rel='stylesheet'>
+</head>
+
+<body>
+
+	<%- include("partials/header") -%>
+
+
+
+	<div class="wrapper">
+		<div class="container">
+			<div class="row">
+				<%- include("partials/user_control_panel") -%>
+
+
+				<div class="span9">
+					<form method="post" action="/search_pdf_post">
+						Ders : <input type="text" name="lesson" class="login-username" autofocus="true"
+							placeholder=""  />
+						<br>
+						Proje Adı : <input type="text" name="project_name" class="login-username" autofocus="true"
+							placeholder=""  />
+						<br>
+						Anahtar Kelimeler : <input type="text" name="keywords" class="login-username" autofocus="true"
+							placeholder="Anahtar kelimeleri virgülle ayırınız !!!"  />
+						<br>
+						Dönem : <input type="text" name="term" class="login-username" autofocus="true"
+							placeholder="Örnek : 2018-2019 Bahar"  />
+						<br>
+						<textarea name="type" style="visibility: hidden;"><%= type %></textarea>
+						<input type="submit" value="Pdf Ara" class="login-submit" />
+					</form>
+					<div>
+						<ul>
+							<% for(let i=0; i<results.length; i++) { %>
+								<li>
+									<a href="/show_pdf_infos/<%= results[i]._id %>">
+										<%= results[i].project_name %>
+									</a>
+								</li>
+							<% } %>
+						</ul>
+						
+					</div>
+
+
+				</div>
+				<!--/.span9-->
+			</div>
+		</div>
+		<!--/.container-->
+	</div>
+	<!--/.wrapper-->
+
+
+	<%- include("partials/footer") -%>
+</body>

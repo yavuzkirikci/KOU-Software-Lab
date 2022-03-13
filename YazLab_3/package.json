@@ -1,0 +1,36 @@
+{
+  "name": "proje3",
+  "version": "1.0.0",
+  "description": "aaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOU-Lab-Takim/YazLab-Proje3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOU-Lab-Takim/YazLab-Proje3/issues"
+  },
+  "homepage": "https://github.com/KOU-Lab-Takim/YazLab-Proje3#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "i": "^0.3.7",
+    "method-override": "^3.0.0",
+    "mongodb": "^4.2.1",
+    "mongoose": "^6.1.1",
+    "nodemon": "^2.0.15",
+    "npm": "^8.3.0",
+    "pdf-parse": "^1.1.1",
+    "pdf-parser": "^1.0.5",
+    "pdf2json": "^2.0.0",
+    "pdfjs-dist": "^2.10.377",
+    "xhr2": "^0.2.1"
+  }
+}

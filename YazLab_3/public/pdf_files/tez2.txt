@@ -1,0 +1,332 @@
+KOCAELİ ÜNİVERSİTESİ  
+MÜHENDİSLİK FAKÜLTESİ 
+ 
+ 
+BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ 
+ 
+ 
+ 
+LİSANS TEZİ 
+ 
+ 
+ 
+ 
+aodfmaodspadfğpağpfpadğkfpğakdfpk
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ali 
+ 
+ 
+ 
+ 
+ 
+ 
+KOCAELİ 2018 
+----------------Page (0) Break----------------
+KOCAELİ ÜNİVERSİTESİ  
+MÜHENDİSLİK FAKÜLTESİ 
+ 
+BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ 
+ 
+ 
+BİTİRME PROJESİ 
+ 
+asdfsafdfasfsfdsa
+  
+ 
+ALİ EKEN 
+ 
+Prof.Dr. ssdasda Duru 
+Danışman, Kocaeli Üniv. ................................................ 
+Doç.Dr. Sevinç İLHAN OMURCA 
+Jüri Üyesi, Kocaeli Üniv.  ................................................ 
+Dr. Öğr. Üyesi Orhan AKBULUT 
+Jüri Üyesi, Kocaeli Üniv. ................................................ 
+ 
+Tezin Savunulduğu Tarih: 01.06.2019 / 2018-2019 Bahar 
+ 
+ 
+ 
+ 
+ 
+ 
+----------------Page (1) Break----------------
+ÖNSÖZ VE TEŞEKKÜR 
+Bu tez 
+çalışması,....................................................................................................................................a
+macıyla gerçekleştirilmiştir. 
+Tez çalışmamda desteğini esirgemeyen, çalışmalarıma yön veren, bana güvenen ve 
+yüreklendiren danışmanım ................................ sonsuz teşekkürlerimi sunarım. 
+Tez çalışmamın tüm aşamalarında bilgi ve destekleriyle katkıda bulunan 
+hocam........................................... teşekkür ediyorum. 
+Tez  çalışmamda  gösterdiği  anlayış  ve  destek için  sayın.............................  teşekkürlerimi 
+sunarım. 
+Hayatım  boyunca  bana  güç  veren  en  büyük  destekçilerim,  her  aşamada  sıkıntılarımı  ve 
+mutluluklarımı paylaşan sevgili aileme teşekkürlerimi sunarım. 
+Mayıs – 2018 Ali EKEN 
+  
+----------------Page (2) Break----------------
+ 
+ 
+ 
+ 
+ 
+Bu dokümandaki tüm bilgiler, etik ve akademik kurallar çerçevesinde elde edilip sunulmuştur. 
+Ayrıca yine bu kurallar çerçevesinde kendime ait olmayan ve kendimin üretmediği ve başka 
+kaynaklardan elde edilen bilgiler ve materyaller (text, resim, şekil, tablo vb.) gerekli şekilde 
+referans edilmiş ve dokümanda belirtilmiştir. 
+ 
+ 
+Öğrenci No: 170201025 
+Adı Soyadı: YAvız 
+Öğretim Türü: Örgün Öğretim 
+ 
+ 
+ 
+----------------Page (3) Break----------------
+   
+ 
+ 
+ 
+ 
+ 
+İÇİNDEKİLER 
+ÖNSÖZ VE TEŞEKKÜR ............................................................................................. i 
+İÇİNDEKİLER ............................................................................................................. ii 
+ŞEKİLLER DİZİNİ ..................................................................................................... iii 
+TABLOLAR DİZİNİ .................................................................................................. iv 
+SİMGELER VE KISALTMALAR DİZİNİ ................................................................. v 
+ÖZET .......................................................................................................................... vii 
+ABSTRACT .............................................................................................................. viii 
+GİRİŞ ........................................................................................................................... 1 
+1.  SAYISAL KORUMADA TEMEL KAVRAMLAR ............................................... 3 
+ 1.1. Ayrık İşaretlerin Fazörel Gösterimi ............................................................... 3 
+ 1.2. Arıza Tipinin Belirlenmesi ............................................................................. 6 
+2.  İLETİM HATLARINDA EMPEDANSA DAYALI ARIZA YERİ BULMA 
+ALGORİTMALARI .............................................................................................. 12 
+ 2.1. Tek Bara Ölçümlerini Kullanan Arıza Yeri Bulma Algoritmaları............... 13 
+  2.1.1. Basit reaktans algoritması ................................................................ 13 
+  2.1.2. Takagi algoritması ............................................................................ 13 
+  2.1.3. Geliştirilmiş Takagi algoritması ....................................................... 14 
+ 2.2. İki Bara Ölçümlerini Kullanan Arıza Yeri Bulma Algoritmaları ................ 14 
+  2.1.1. Basit arıza gerilimi eşitliği algoritması ............................................ 14 
+  2.1.2. Asimetrik arıza yeri bulma algoritması ............................................ 15 
+  2.1.3. Negatif bileşenler ile arıza yeri bulma algoritması .......................... 16 
+  2.1.4. Simetrik arıza yeri bulma algoritması .............................................. 17 
+3.  EMPEDANSA DAYALI ARIZA YERİ BULMA ALGORİTMALARININ FARKLI 
+TEST SİSTEMLERİNDE UYGULANMASI....................................................... 20 
+ 3.1. Homojen Test Sistemi .................................................................................. 20 
+ 3.2. Homojen Olmayan Test Sistemi .................................................................. 24 
+ 3.3. Homojen Olmayan Test Sistemi (Orta Uzun Hat Modeli - Pi Eşdeğer Devresi)  28 
+4.  SERİ KAPASİTÖRLÜ İLETİM HATLARINDA ARIZA YERİ TESPİTİ ......... 33 
+5.  SERİ KAPASİTÖRLÜ İLETİM HATLARI İÇİN PERFORMANSA  
+DAYALI ARIZA YERİ BULMA ALGORİTMASI ............................................ 37 
+ 5.1. Algoritmanın Temel Arıza Yeri Bulma Algoritmaları İle  
+Karşılaştırması.............................................................................................. 41 
+ 5.2. Seri Kapasitörlü İletim Hatlarını Baz Alan Arıza Yeri Bulma Algoritmalarının 
+Karşılaştırılması ........................................................................................... 45 
+6.  SONUÇLAR VE ÖNERİLER............................................................................... 48 
+KAYNAKLAR ........................................................................................................... 53 
+EKLER ....................................................................................................................... 59 
+KİŞİSEL YAYIN VE ESERLER .............................................................................. 68 
+ÖZGEÇMİŞ ............................................................................................................... 69 
+  
+----------------Page (4) Break----------------
+ 
+ 
+ 
+ 
+ŞEKİLLER DİZİNİ 
+Şekil 1.1. Yinelenen Fourier ifadesi .......................................................................... 5 
+Şekil 1.2. Simetrili bileşenlerin gösterimi a) pozitif bileşenler b) negatif  
+bileşenler c) sıfır bileşenler ....................................................................... 7 
+Şekil 1.3. Şebekenin a) pozitif bileşen devresi b) negatif bileşen devresi c) sıfır bileşen 
+devresi ....................................................................................................... 8 
+Şekil 1.4. Arıza öncesi, arıza anı ve arıza sonrası durum .......................................... 9 
+Şekil 2.1. İletim hattında arıza eşdeğer devresi ....................................................... 12 
+Şekil 3.1. Homojen test sistemi ............................................................................... 20 
+Şekil 3.2. Homojen olmayan test sistemi ................................................................ 24 
+Şekil 3.3. Homojen olmayan test sistemi(pi modeli) ............................................... 28 
+Şekil 5.1. Seri kapasitörlü iletim hattı ..................................................................... 37 
+Şekil 5.2. Arıza yerinin S barası ve seri kapasitör arasında olma durumu .............. 38 
+Şekil 5.3. Performansa dayalı alınan algoritmanın akış diyagramı ......................... 41 
+Şekil 5.4. Seri kapasitörlü test sistemi ..................................................................... 42 
+Şekil 5.5. MOV ve seri kapasitörde ki akım değişimi ............................................. 43 
+  
+----------------Page (5) Break----------------
+ 
+ 
+ 
+ 
+TABLOLAR DİZİNİ 
+Tablo 1.1. Arıza tiplerine göre pozitif bileşen empedans eşitlikleri ......................... 10 
+Tablo 3.1. Homojen test sisteminde farklı uzaklıklardaki çeşitli arıza tipleri  
+için yüzde hata oranları ........................................................................... 21 
+Tablo 3.2. Homojen test sisteminde farklı arıza dirençlerindeki çeşitli arıza 
+tipleri için yüzde hata oranları ................................................................. 23 
+Tablo 3.3. Homojen olmayan test sisteminde farklı uzaklıklardaki çeşitli arıza 
+tipleri için yüzde hata oranları ................................................................. 25 
+Tablo 3.4. Homojen olmayan test sisteminde farklı arıza dirençlerindeki çeşitli  
+arıza tipleri için yüzde hata oranları ........................................................ 26 
+Tablo 3.5. Homojen olmayan test sisteminde (orta uzun hat modeli - pi  
+eşdeğer devresi) farklı uzaklıklardaki farklı arıza tipleri için yüzde 
+hata oranları ............................................................................................. 29 
+Tablo 3.6. Homojen olmayan pi eşdeğer devreli test sisteminde farklı arıza dirençlerindeki 
+çeşitli arıza tipleri için yüzde hata oranları.............................................. 30 
+Tablo 4.1. Seri kompanzasyonun etkileri ve sonuçları ............................................. 33 
+Tablo 4.2. Seri kompanze edilmiş iletim sistemleri için kullanılan bazı  
+algoritmalar ve özellikleri ....................................................................... 34 
+Tablo 5.1. Test sistemi parametreleri ....................................................................... 42 
+Tablo 5.2. Test sisteminin simülasyon parametreleri ............................................... 42 
+Tablo 5.3. Test sisteminin farklı uzaklıklardaki çeşitli arıza tipleri için yüzde  
+hata oranları ............................................................................................. 44 
+Tablo 5.4. Test sisteminin farklı arıza dirençlerindeki faz-faz-toprak arıza tipi  
+için yüzde hata oranları ........................................................................... 45 
+Tablo 5.5. Seri kapasitörü dikkate alan algoritmaların karşılaştırılması .................. 46 
+Tablo 5.6. Seri kapasitörü dikkate alan algoritmaların genel özellikleri .................. 47 
+  
+----------------Page (6) Break----------------
+ 
+ 
+ 
+ 
+SİMGELER VE KISALTMALAR DİZİNİ 
+α1,2,3 : Eğim için alınan açı, (°) 
+φ : Açı, (°) 
+θ : Açı, (rad) 
+d : Arıza noktasının referans baraya uzaklığı, (%) 
+dcapS : Seri kapasitörün S barasına uzaklığı, (%) 
+dcapR : Seri kapasitörün R barasına uzaklığı, (%) 
+dS : Arıza noktasının S barasına uzaklığı, (%) 
+dR : Arıza noktasının R barasına uzaklığı, (%) 
+f0 : İşaretin frekansı, (Hz) 
+fS : Örnekleme frekansı, (Hz) 
+I0 : Sıfır bileşen akımı, (A) 
+I1 : Pozitif bileşen akımı, (A) 
+I2 : Negatif bileşen akımı, (A) 
+Ia : a fazı akımı, (A) 
+Iab : a fazı ve b fazı akımları farkı, (A) 
+Ib : b fazı akımı, (A) 
+Ibc : b fazı ve c fazı akımları farkı, (A) 
+Ic : c fazı akımı, (A) 
+Ica : c fazı ve a fazı akımları farkı, (A) 
+Icap : Seri kapasitör üzerinden geçen akım, (A) 
+IF : Arıza noktasından geçen akım, (A) 
+IFR : Arıza noktasından geçen akımın R barasından gelen kısmı, (A) 
+IFS : Arıza noktasından geçen akımın S barasından gelen kısmı, (A) 
+Iönce : Arıza öncesi akım, (A) 
+IR : R barasından çıkan akımı, (A) 
+Iref : Alınan referans akım, (A) 
+IS : S barasından çıkan akımı, (A) 
+Isüp : Süperpozisyon akımı, (A) 
+Isüp* : Süperpozisyon akımının eşleniği, (A) 
+RF : Arıza noktası empedansı, (Ω) 
+XL : Hat empedansının imajiner bileşeni, (Ω) 
+xd’’ : Senkron makinenin subtransientreaktansı, (pu) 
+V0 : Sıfır bileşen gerilimi, (V) 
+V1 : Pozitif bileşen gerilimi, (V) 
+V2 : Negatif bileşen gerilimi, (V) 
+Va : a fazı gerilimi, (V) 
+Vab : a fazı ve b fazı gerilimleri farkı, (V) 
+Vb : b fazı gerilimi, (V) 
+Vbc : b fazı ve c fazı gerilimleri farkı, (V) 
+Vc : c fazı gerilimi, (V) 
+Vca : c fazı ve a fazı gerilimleri farkı, (V) 
+Vcap : Kapasitör öncesindeki bağlantı noktasının gerilimi, (V) 
+VR : R barası (uzak bara) gerilimi, (V) 
+Vref : Alınan referans gerilimi, (V) 
+----------------Page (7) Break----------------
+VS : S barası (yakın/referans bara) gerilimi, (V) 
+VF : Arıza noktası gerilimi, (V) 
+ZCap-F : Seri kapasitör ile arıza noktası arasındaki empedans, (Ω) 
+ZL : Hat empedansı, (Ω) 
+ZR : R barasından görülen thevenin empedansı, (Ω) 
+ZS : S barasından görülen thevenin empedansı, (Ω) 
+Kısaltmalar 
+AC : AlternativeCurrent (Alternatif Akım) 
+ANN : ArtificialNeural Networks (Yapay Sinir Ağları) 
+DDA : DeterministicDifferentialApproach (Deterministik Diferansiyel Yaklaşım) 
+FACTS : FlexibleAlternativeCurrentTransmissionSystem (Esnek Alternatif Akım İletim 
+Sistemi) 
+IEEE : TheInstitute of ElectricalandElectronicsEngineers (Elektrik ve Elektronik 
+Mühendisleri Enstitüsü) 
+Im : İmajiner 
+min : Minimum 
+MOV : Metal OxideVaristor (Metal Oksit Varistör) 
+PMU : PhasorMeasurementUnit (Fazör Ölçüm Ünitesi) 
+R : Receiving (Alan) 
+Re : Reel 
+S : Sending (Gönderen) 
+SC :  Series Capacitor (Seri Kapasitör) 
+  
+----------------Page (8) Break----------------
+ 
+ 
+ 
+ 
+İLETİM HATLARINDA EMPEDANS TABANLI ARIZA YERİ TESPİTİ İÇİN YENİ 
+BİR YAKLAŞIM  
+ÖZET 
+Bu çalışmanın amacı, iletim hatlarında arıza yeri tespiti için empedansa dayalı algoritmaları 
+incelemek ve seri kompanze edilmiş hatlar için yeni bir algoritma geliştirmektir.  
+Öncelikle,  tek  yada  iki  baradan  alınan  ölçümleri  kullanarak  arıza  yerini  belirleyen  temel 
+algoritmalar tanımlanmıştır. Örnek test sistemleri üzerinde sistem ve arızaya ilişkin 
+parametreler değiştirilerek, temel arıza yeri algoritmalarından elde edilen sonuçlar 
+karşılaştırılmıştır. Sistem parametreleri hat modeli ve sistemin homojen olup olmama 
+durumlarını  kapsarken,  arızaya  ilişkin  parametreler  arıza  tipi,  konumu  ve  direnci  olarak 
+alınmıştır. 
+Seri kompanze edilmiş iletim hatlarında empedansa dayalı geliştirilmiş temel algoritmaların 
+yeterli olmadığı, bu duruma özel algoritmaların gerekliliği bir uygulama ile gösterilmiştir. Bu 
+özel  algoritmalar  incelenerek  kısaca  özetlenmiştir.  Buradan  hareketle,  iletim  hatlarında  seri 
+kompanzasyon durumunu dikkate alan performansa dayalı yeni bir arıza yeri tespiti algoritması 
+bu tez kapsamında geliştirilmiştir. 
+Geliştirilen bu algoritma, hat bilgileri ve iki baradan alınan ölçümleri kullanarak iteratif olarak 
+arıza  yerini  hesaplayan,  bütün  örneklerdeki  sonuçları  karşılaştırarak  minimum  hata  ile  bir 
+sonuca  ulaşan  bir  algoritmadır.  Önerilen  algoritma,  hem  temel  algoritmalar  hem  de  seri 
+kompanze  edilmiş  iletim  hatları  için  tasarlanmış,  iki  farklı  algoritma  türü  ile  çeşitli  test 
+sistemleri üzerinde denenmiş, alınan sonuçlar karşılaştırılmıştır. Test sistemleri DigSILENT 
+üzerinde  modellenmiş  ve  kısadevre  analizleri  yapılmış  olup,  bu  sistemden  alınan  akım  ve 
+gerilim bilgileri MATLAB ortamında kodlanan algoritmalar için kullanılmıştır. 
+Anahtar  kelimeler: Arıza  Yeri  Bulma  Algoritmaları,  İletim  Hatları,  MOV,  PMU,  Seri 
+Kapasitör. 
+ 
+  
+----------------Page (9) Break----------------
+ 
+ 
+ 
+ 
+A NEW  APPROACH FOR IMPEDANCE  BASED  FAULT  LOCATIONON 
+TRANSMISSION LINES 
+ABSTRACT 
+Purpose of this study is to examine impedance based algorithms on transmission lines for fault 
+location and to develop a new algorithm for series compensated lines.  
+First of all, one and two end basic fault location algorithms are described. At a sample test 
+system, results of the basic fault location algorithms are compared by changing system and fault 
+related parameters. The system parameters consist of the line model and the cases of the system 
+being homogeneous or nonhomogeneous while the fault related parameters are considered as 
+fault type, fault location and fault resistance.  
+In the series compensated transmission lines, inadequacy of the basic impedance based fault 
+location algorithms and necessity of a new particular fault location algorithmare shown by a 
+simulation. The particular algorithms are analyzed and summarized. Then a new performance 
+based algorithm is developed for the series compensated transmission lines in this thesis. 
+The developed algorithm iteratively estimates the fault location based on the calculated fault 
+voltage and current using two end measurements and the line parameters, the algorithm can 
+compare  all the samples to attain a single outcome with minimal error.  On the various test 
+systems, the proposed algorithm is examined with two algorithm type,the basic algorithms and 
+the particular algorithms designed for series compensated lines and the results are compared. 
+The test systems are modeled and analyzed on DigSILENT and the gained current and voltage 
+information is used in MATLAB for coded algorithms. 
+Keywords: 
+ 
+ 
+ 
+ 
+  
+Fault Location Algorithms, Transmission Lines, MOV, PMU, Series Capacitor. 
+----------------Page (10) Break----------------

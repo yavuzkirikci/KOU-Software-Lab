@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Proje3</title>
+	<link type="text/css" href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link type="text/css" href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+	<link type="text/css" href="css/theme.css" rel="stylesheet">
+	<link type="text/css" href="images/icons/css/font-awesome.css" rel="stylesheet">
+	<link type="text/css" href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600'
+		rel='stylesheet'>
+</head>
+
+<body>
+
+	<%- include("partials/header") -%>
+
+	<div class="wrapper">
+		<div class="container">
+			<div class="row">
+				<%- include("partials/control_panel") -%>
+
+
+				<div class="span9">
+					<form method="post" action="/edit_user_post_2">
+						Kullanıcının Bilgilerini Güncelleyin <br>
+						Email : <input type="email" name="email" class="login-username" autofocus="true" required="true"
+							value= <%= body.email %> id="email_text" />
+						<br>
+						Şifre : <input type="text" name="password" class="login-password" required="true"
+							value= <%= body.password %> id="password_text" />
+						<br>
+						Yetkinlik : <input type="text" name="user_type" class="login-username" required="true"
+							value= <%= body.type %> />
+						<br>
+						<input type="submit" value="Güncelle" class="login-submit" />
+					</form>
+
+
+				</div>
+				<!--/.span9-->
+			</div>
+		</div>
+		<!--/.container-->
+	</div>
+	<!--/.wrapper-->
+
+
+	<%- include("partials/footer") -%>
+</body>

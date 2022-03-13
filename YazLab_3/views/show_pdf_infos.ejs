@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Proje3</title>
+	<link type="text/css" href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link type="text/css" href="/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+	<link type="text/css" href="/css/theme.css" rel="stylesheet">
+	<link type="text/css" href="/images/icons/css/font-awesome.css" rel="stylesheet">
+	<link type="text/css" href='/http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600'
+		rel='stylesheet'>
+</head>
+
+<body>
+
+	<%- include("partials/header") -%>
+
+
+
+	<div class="wrapper">
+		<div class="container">
+			<div class="row">
+                <% if(user_type == "user") { %>
+				    <%- include("partials/user_control_panel") -%>
+                <% }else{ %>
+                    <%- include("partials/control_panel") -%>
+                <%  } %>
+                <form action="/pdf_view/<%= infos._id%>" method="post">
+                    <div class="span9">
+                        <p> Öğrenci No : <%= infos.student_number%></p>
+                        <p> Öğrenci İsmi : <%= infos.student_name%></p>
+                        <p> Öğretim Türü : <%= infos.ogretim_turu%></p>
+                        <p> Bölüm :  <%= infos.department%></p>
+                        <p> Ders :  <%= infos.lesson%></p>
+                        <p> Tez İsmi : <%= infos.project_name%></p>
+                        <p> Danışman İsmi : <%= infos.advisor%></p>
+                        <p> Jüri-1 İsim : <%= infos.jury1%></p>
+                        <p> Jüri-2 İsim : <%= infos.jury2%></p>
+                        <p> Tarih : <%= infos.date%></p>
+                        <p> Dönem : <%= infos.term%></p>
+                        <p> Özet : <%= infos.abstract%></p>
+                        <p> Anahtar Kelimeler: <%= infos.keywords%></p>
+                        <a href="http://localhost:3000/<%= path %>" class="btn btn-danger" download>Download</a>
+    
+                    </div>
+                    <!--/.span9-->
+                </form>
+				
+			</div>
+		</div>
+		<!--/.container-->
+	</div>
+	<!--/.wrapper-->
+
+
+	<%- include("partials/footer") -%>
+</body>
