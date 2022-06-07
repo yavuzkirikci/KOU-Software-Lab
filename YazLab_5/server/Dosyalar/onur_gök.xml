@@ -1,0 +1,23 @@
+<dblpperson name="Onur Gök" pid="193/4907" n="1">
+	<person key="homepages/193/4907" mdate="2017-01-19">
+		<author pid="193/4907">Onur Gök</author>
+	</person>
+	<r>
+		<inproceedings key="conf/monami/GulagizG16" mdate="2017-05-24">
+			<author pid="144/4317">Fidan Kaya Gülagiz</author>
+			<author pid="193/4907">Onur Gök</author>
+			<title>Estimation of Synchronization Time in Cloud Computing Architecture.</title>
+			<pages>19-30</pages>
+			<year>2016</year>
+			<booktitle>MONAMI</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-52712-3_2</ee>
+			<crossref>conf/monami/2016</crossref>
+			<url>db/conf/monami/monami2016.html#GulagizG16</url>
+		</inproceedings>
+	</r>
+	<coauthors n="1" nc="0">
+		<co c="-1">
+			<na f="g/G=uuml=lagiz:Fidan_Kaya" pid="144/4317">Fidan Kaya Gülagiz</na>
+		</co>
+	</coauthors>
+</dblpperson>

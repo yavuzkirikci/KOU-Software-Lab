@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblpperson name="Yasar Becerikli" pid="82/5345" n="25">
+   <person key="homepages/82/5345" mdate="2009-06-10">
+      <author pid="82/5345">Yasar Becerikli</author>
+   </person>
+   <r>
+      <article key="journals/access/SavasB20" mdate="2020-02-08">
+         <author orcid="0000-0003-1005-9332" pid="208/1354">Burcu Kir Savas</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <title>Real Time Driver Fatigue Detection System Based on Multi-Task ConNN.</title>
+         <pages>12491-12498</pages>
+         <year>2020</year>
+         <volume>8</volume>
+         <journal>IEEE Access</journal>
+         <ee type="oa">https://doi.org/10.1109/ACCESS.2020.2963960</ee>
+         <url>db/journals/access/access8.html#SavasB20</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/evi/SentasTKKESB20" mdate="2020-04-16">
+         <author pid="221/7690">Ali Sentas</author>
+         <author pid="221/7685">Isabek Tashiev</author>
+         <author pid="221/7691">Fatmanur Küçükayvaz</author>
+         <author orcid="0000-0002-7481-3560" pid="191/1289">Seda Kul</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <author pid="82/5345">Yasar Becerikli</author>
+         <title>Performance evaluation of support vector machine and convolutional neural network algorithms in real-time vehicle type and color classification.</title>
+         <pages>83-91</pages>
+         <year>2020</year>
+         <volume>13</volume>
+         <journal>Evol. Intell.</journal>
+         <number>1</number>
+         <ee>https://doi.org/10.1007/s12065-018-0167-z</ee>
+         <url>db/journals/evi/evi13.html#SentasTKKESB20</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/eann/KurtB18" mdate="2018-08-20">
+         <author pid="224/9269">Elif Merve Kurt</author>
+         <author pid="82/5345">Yasar Becerikli</author>
+         <title>Network Intrusion Detection on Apache Spark with Machine Learning Algorithms.</title>
+         <pages>130-141</pages>
+         <year>2018</year>
+         <booktitle>EANN</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-98204-5_11</ee>
+         <crossref>conf/eann/2018</crossref>
+         <url>db/conf/eann/eann2018.html#KurtB18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/eidwt/SentasTKKESB18" mdate="2018-06-26">
+         <author pid="221/7690">Ali Sentas</author>
+         <author pid="221/7685">Isabek Tashiev</author>
+         <author pid="221/7691">Fatmanur Küçükayvaz</author>
+         <author pid="191/1289">Seda Kul</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <author pid="82/5345">Yasar Becerikli</author>
+         <title>Performance Evaluation of Support Vector Machine and Convolutional Neural Network Algorithms in Real-Time Vehicle Type Classification.</title>
+         <pages>934-943</pages>
+         <year>2018</year>
+         <booktitle>EIDWT</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-75928-9_86</ee>
+         <crossref>conf/eidwt/2018</crossref>
+         <url>db/conf/eidwt/eidwt2018.html#SentasTKKESB18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/SavasIB16" mdate="2021-10-14">
+         <author pid="208/1354">Burcu Kir Savas</author>
+         <author orcid="0000-0002-0570-2250" pid="218/2929">Sümeyya Ilkin</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <title>The realization of face detection and fullness detection in medium by using Haar Cascade Classifiers.</title>
+         <pages>2217-2220</pages>
+         <year>2016</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2016.7496215</ee>
+         <crossref>conf/siu/2016</crossref>
+         <url>db/conf/siu/siu2016.html#SavasIB16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/ciss/IskurtBM13" mdate="2018-11-02">
+         <author pid="06/6780">Ali Iskurt</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="132/3942">Kamran Mahmutyazicioglu</author>
+         <title>A fast and automatic calibration of the projectory images for 3D reconstruction of the branchy structures.</title>
+         <pages>1-6</pages>
+         <year>2013</year>
+         <booktitle>CISS</booktitle>
+         <ee>https://doi.org/10.1109/CISS.2013.6552282</ee>
+         <crossref>conf/ciss/2013</crossref>
+         <url>db/conf/ciss/ciss2013.html#IskurtBM13</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icatech/IskurtB11" mdate="2018-11-02">
+         <author pid="06/6780">Ali Iskurt</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <title>Automatic extraction of cortical gray matter by geodesic contours.</title>
+         <pages>1-6</pages>
+         <year>2011</year>
+         <booktitle>ICAT</booktitle>
+         <ee>https://doi.org/10.1109/ICAT.2011.6102104</ee>
+         <crossref>conf/icatech/2011</crossref>
+         <url>db/conf/icatech/icatech2011.html#IskurtB11</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/es/IskurtB10" mdate="2020-05-26">
+         <author pid="06/6780">Ali Iskurt</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <title>Extraction of media and plaque boundaries in intravascular ultrasound images by level sets and min/max flow.</title>
+         <pages>101-113</pages>
+         <year>2010</year>
+         <volume>27</volume>
+         <journal>Expert Syst. J. Knowl. Eng.</journal>
+         <number>2</number>
+         <ee>https://doi.org/10.1111/j.1468-0394.2010.00510.x</ee>
+         <url>db/journals/es/es27.html#IskurtB10</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/tnn/YuzgecBT08" mdate="2019-10-19">
+         <author orcid="0000-0002-5364-6265" pid="05/8803">Ugur Yüzgeç</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="93/6519">Mustafa Türker</author>
+         <title>Dynamic Neural-Network-Based Model-Predictive Control of an Industrial Baker's Yeast Drying Process.</title>
+         <pages>1231-1242</pages>
+         <year>2008</year>
+         <volume>19</volume>
+         <journal>IEEE Trans. Neural Networks</journal>
+         <number>7</number>
+         <ee>https://doi.org/10.1109/TNN.2008.2000205</ee>
+         <url>db/journals/tnn/tnn19.html#YuzgecBT08</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/asc/BecerikliO07" mdate="2018-11-30">
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="03/3822">Yusuf Oysal</author>
+         <title>Modeling and prediction with a class of time delay dynamic neural networks.</title>
+         <pages>1164-1169</pages>
+         <year>2007</year>
+         <volume>7</volume>
+         <journal>Appl. Soft Comput.</journal>
+         <number>4</number>
+         <ee>https://doi.org/10.1016/j.asoc.2006.01.012</ee>
+         <url>db/journals/asc/asc7.html#BecerikliO07</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/mcm/BecerikliC07" mdate="2021-02-17">
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="75/9584">B. Koray Celik</author>
+         <title>Fuzzy control of inverted pendulum and concept of stability using Java application.</title>
+         <pages>24-37</pages>
+         <year>2007</year>
+         <volume>46</volume>
+         <journal>Math. Comput. Model.</journal>
+         <number>1-2</number>
+         <ee type="oa">https://doi.org/10.1016/j.mcm.2006.12.004</ee>
+         <url>db/journals/mcm/mcm46.html#BecerikliC07</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/nca/PostalciogluB07" mdate="2020-09-10">
+         <author pid="23/4137">Seda Postalcioglu</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <title>Wavelet networks for nonlinear system modeling.</title>
+         <pages>433-441</pages>
+         <year>2007</year>
+         <volume>16</volume>
+         <journal>Neural Comput. Appl.</journal>
+         <number>4-5</number>
+         <ee>https://doi.org/10.1007/s00521-006-0069-3</ee>
+         <url>db/journals/nca/nca16.html#PostalciogluB07</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/ijcnn/BecerikliOSC07" mdate="2018-11-02">
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="80/2003">A. V. Olgac</author>
+         <author pid="55/494">E. Sen</author>
+         <author pid="06/1854">F. Coskun</author>
+         <title>Neural Network Based License Plate Recognition System.</title>
+         <pages>3057-3061</pages>
+         <year>2007</year>
+         <booktitle>IJCNN</booktitle>
+         <ee>https://doi.org/10.1109/IJCNN.2007.4371448</ee>
+         <crossref>conf/ijcnn/2007</crossref>
+         <url>db/conf/ijcnn/ijcnn2007.html#BecerikliOSC07</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/cce/OysalBK06" mdate="2020-05-18">
+         <author pid="03/3822">Yusuf Oysal</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="22/6943">Ahmet Ferit Konar</author>
+         <title>Modified descend curvature based fixed form fuzzy optimal control of nonlinear dynamical systems.</title>
+         <pages>878-888</pages>
+         <year>2006</year>
+         <volume>30</volume>
+         <journal>Comput. Chem. Eng.</journal>
+         <number>5</number>
+         <ee>https://doi.org/10.1016/j.compchemeng.2005.12.012</ee>
+         <url>db/journals/cce/cce30.html#OysalBK06</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/iconip/SahinBY06" mdate="2017-05-24">
+         <author pid="74/2480">Suhap Sahin</author>
+         <author pid="82/5345">Yasar Becerikli</author>
+         <author pid="45/7023">Suleyman Yazici</author>
+         <title>Neural Network Implementation in Hardware Using FPGAs.</title>
+         <pages>1105-1112</pages>
+         <year>2006</year>
+         <crossref>conf/iconip/2006-3</crossref>
+         <booktitle>ICONIP (3)</booktitle>
+         <ee>https://doi.org/10.1007/11893295_122</ee>
+         <url>db/conf/iconip/iconip2006-3.html#SahinBY06</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/jim/OysalBK05" mdate="2020-09-24">
+         <author pid="03/3822">Yusuf Oysal</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="22/6943">Ahmet Ferit Konar</author>
+         <title>Phase Portrait Modeling of a Nonlinear System with a Dynamic Fuzzy Network.</title>
+         <pages>703-714</pages>
+         <year>2005</year>
+         <volume>16</volume>
+         <journal>J. Intell. Manuf.</journal>
+         <number>6</number>
+         <ee>https://doi.org/10.1007/s10845-005-4373-z</ee>
+         <url>db/journals/jim/jim16.html#OysalBK05</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/isnn/PostalciogluB05" mdate="2017-05-19">
+         <author pid="23/4137">Seda Postalcioglu</author>
+         <author pid="82/5345">Yasar Becerikli</author>
+         <title>Nonlinear System Modeling Using Wavelet Networks.</title>
+         <pages>411-417</pages>
+         <year>2005</year>
+         <crossref>conf/isnn/2005-2</crossref>
+         <booktitle>ISNN (2)</booktitle>
+         <ee>https://doi.org/10.1007/11427445_67</ee>
+         <url>db/conf/isnn/isnn2005-2.html#PostalciogluB05</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/iwann/BecerikliK05" mdate="2017-05-23">
+         <author pid="82/5345">Yasar Becerikli</author>
+         <author pid="04/6652">Tayfun M. Karan</author>
+         <title>A New Fuzzy Approach for Edge Detection.</title>
+         <pages>943-951</pages>
+         <year>2005</year>
+         <crossref>conf/iwann/2005</crossref>
+         <booktitle>IWANN</booktitle>
+         <ee>https://doi.org/10.1007/11494669_116</ee>
+         <url>db/conf/iwann/iwann2005.html#BecerikliK05</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/kes/BecerikliTD05" mdate="2017-05-21">
+         <author pid="82/5345">Yasar Becerikli</author>
+         <author pid="33/4168">M. Mucteba Tutuncu</author>
+         <author pid="09/4058">H. Engin Demiray</author>
+         <title>Fuzzy Lowpass Filtering.</title>
+         <pages>378-385</pages>
+         <year>2005</year>
+         <crossref>conf/kes/2005-2</crossref>
+         <booktitle>KES (2)</booktitle>
+         <ee>https://doi.org/10.1007/11552451_50</ee>
+         <url>db/conf/kes/kes2005-2.html#BecerikliTD05</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/nca/Becerikli04" mdate="2020-09-10">
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <title>On three intelligent systems: dynamic neural, fuzzy, and wavelet networks for training trajectory.</title>
+         <pages>339-351</pages>
+         <year>2004</year>
+         <volume>13</volume>
+         <journal>Neural Comput. Appl.</journal>
+         <number>4</number>
+         <ee>https://doi.org/10.1007/s00521-004-0429-9</ee>
+         <url>db/journals/nca/nca13.html#Becerikli04</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/tnn/BecerikliOK04" mdate="2018-11-14">
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="03/3822">Yusuf Oysal</author>
+         <author pid="22/6943">Ahmet Ferit Konar</author>
+         <title>Trajectory priming with dynamic fuzzy networks in nonlinear optimal control.</title>
+         <pages>383-394</pages>
+         <year>2004</year>
+         <volume>15</volume>
+         <journal>IEEE Trans. Neural Networks</journal>
+         <number>2</number>
+         <ee>https://doi.org/10.1109/TNN.2004.824422</ee>
+         <ee>https://www.wikidata.org/entity/Q48960110</ee>
+         <url>db/journals/tnn/tnn15.html#BecerikliOK04</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/cce/OysalBK03" mdate="2020-05-18">
+         <author pid="03/3822">Yusuf Oysal</author>
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="22/6943">Ahmet Ferit Konar</author>
+         <title>Generalized modeling principles of a nonlinear system with a dynamic fuzzy network.</title>
+         <pages>1657-1664</pages>
+         <year>2003</year>
+         <volume>27</volume>
+         <journal>Comput. Chem. Eng.</journal>
+         <number>11</number>
+         <ee>https://doi.org/10.1016/S0098-1354(03)00132-7</ee>
+         <url>db/journals/cce/cce27.html#OysalBK03</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/nn/BecerikliKS03" mdate="2018-11-14">
+         <author orcid="0000-0002-2951-7287" pid="82/5345">Yasar Becerikli</author>
+         <author pid="22/6943">Ahmet Ferit Konar</author>
+         <author pid="25/2016">Tariq Samad</author>
+         <title>Intelligent optimal control with dynamic neural networks.</title>
+         <pages>251-259</pages>
+         <year>2003</year>
+         <volume>16</volume>
+         <journal>Neural Networks</journal>
+         <number>2</number>
+         <ee>https://doi.org/10.1016/S0893-6080(02)00232-0</ee>
+         <ee>https://www.wikidata.org/entity/Q52020971</ee>
+         <url>db/journals/nn/nn16.html#BecerikliKS03</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/icann/BecerikliOK03" mdate="2017-05-26">
+         <author pid="82/5345">Yasar Becerikli</author>
+         <author pid="03/3822">Yusuf Oysal</author>
+         <author pid="22/6943">Ahmet Ferit Konar</author>
+         <title>On a Dynamic Wavelet Network and Its Modeling Application.</title>
+         <pages>710-720</pages>
+         <ee>https://doi.org/10.1007/3-540-44989-2_85</ee>
+         <year>2003</year>
+         <crossref>conf/icann/2003</crossref>
+         <booktitle>ICANN</booktitle>
+         <url>db/conf/icann/icann2003.html#BecerikliOK03</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/iscis/Becerikli03" mdate="2017-05-26">
+         <author pid="82/5345">Yasar Becerikli</author>
+         <title>Nonlinear Filtering Design Using Dynamic Neural Networks with Fast Training.</title>
+         <pages>601-610</pages>
+         <ee>https://doi.org/10.1007/978-3-540-39737-3_75</ee>
+         <year>2003</year>
+         <crossref>conf/iscis/2003</crossref>
+         <booktitle>ISCIS</booktitle>
+         <url>db/conf/iscis/iscis2003.html#Becerikli03</url>
+      </inproceedings>
+   </r>
+   <coauthors n="26" nc="6">
+      <co c="-1">
+         <na f="c/Celik:B=_Koray" pid="75/9584">B. Koray Celik</na>
+      </co>
+      <co c="2">
+         <na f="c/Coskun:F=" pid="06/1854">F. Coskun</na>
+      </co>
+      <co c="4">
+         <na f="d/Demiray:H=_Engin" pid="09/4058">H. Engin Demiray</na>
+      </co>
+      <co c="0">
+         <na f="e/Eken:S=uuml=leyman" pid="121/2902">Süleyman Eken</na>
+      </co>
+      <co c="0">
+         <na f="i/Ilkin:S=uuml=meyya" pid="218/2929">Sümeyya Ilkin</na>
+      </co>
+      <co c="3">
+         <na f="i/Iskurt:Ali" pid="06/6780">Ali Iskurt</na>
+      </co>
+      <co c="-1">
+         <na f="k/Karan:Tayfun_M=" pid="04/6652">Tayfun M. Karan</na>
+      </co>
+      <co c="1">
+         <na f="k/Konar:Ahmet_Ferit" pid="22/6943">Ahmet Ferit Konar</na>
+      </co>
+      <co c="0">
+         <na f="k/K=uuml==ccedil==uuml=kayvaz:Fatmanur" pid="221/7691">Fatmanur Küçükayvaz</na>
+      </co>
+      <co c="0">
+         <na f="k/Kul:Seda" pid="191/1289">Seda Kul</na>
+      </co>
+      <co c="-1">
+         <na f="k/Kurt:Elif_Merve" pid="224/9269">Elif Merve Kurt</na>
+      </co>
+      <co c="3">
+         <na f="m/Mahmutyazicioglu:Kamran" pid="132/3942">Kamran Mahmutyazicioglu</na>
+      </co>
+      <co c="2">
+         <na f="o/Olgac:A=_V=" pid="80/2003">A. V. Olgac</na>
+      </co>
+      <co c="1">
+         <na f="o/Oysal:Yusuf" pid="03/3822">Yusuf Oysal</na>
+      </co>
+      <co c="-1">
+         <na f="p/Postalcioglu:Seda" pid="23/4137">Seda Postalcioglu</na>
+      </co>
+      <co c="0">
+         <na f="s/Sahin:Suhap" pid="74/2480">Suhap Sahin</na>
+      </co>
+      <co c="1">
+         <na f="s/Samad:Tariq" pid="25/2016">Tariq Samad</na>
+      </co>
+      <co c="0">
+         <na f="s/Savas:Burcu_Kir" pid="208/1354">Burcu Kir Savas</na>
+      </co>
+      <co c="0">
+         <na f="s/Sayar:Ahmet" pid="74/5903">Ahmet Sayar</na>
+      </co>
+      <co c="2">
+         <na f="s/Sen:E=" pid="55/494">E. Sen</na>
+      </co>
+      <co c="0">
+         <na f="s/Sentas:Ali" pid="221/7690">Ali Sentas</na>
+      </co>
+      <co c="0">
+         <na f="t/Tashiev:Isabek" pid="221/7685">Isabek Tashiev</na>
+      </co>
+      <co c="5">
+         <na f="t/T=uuml=rker:Mustafa" pid="93/6519">Mustafa Türker</na>
+      </co>
+      <co c="4">
+         <na f="t/Tutuncu:M=_Mucteba" pid="33/4168">M. Mucteba Tutuncu</na>
+      </co>
+      <co c="0">
+         <na f="y/Yazici:Suleyman" pid="45/7023">Suleyman Yazici</na>
+      </co>
+      <co c="5">
+         <na f="y/Y=uuml=zge=ccedil=:Ugur" pid="05/8803">Ugur Yüzgeç</na>
+      </co>
+   </coauthors>
+</dblpperson>

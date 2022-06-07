@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblpperson name="Fidan Kaya Gülagiz" pid="144/4317" n="9">
+   <person key="homepages/144/4317" mdate="2016-06-09">
+      <author pid="144/4317">Fidan Kaya Gülagiz</author>
+      <note type="affiliation">Kocaeli University, Turkey</note>
+   </person>
+   <r>
+      <article key="journals/iajit/GulagizEKS18" mdate="2021-04-28">
+         <author pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Idle time estimation for bandwidth-efficient synchronization in replicated distributed file system.</title>
+         <pages>177-185</pages>
+         <year>2018</year>
+         <volume>15</volume>
+         <journal>Int. Arab J. Inf. Technol.</journal>
+         <number>2</number>
+         <ee type="oa" />
+         <url>db/journals/iajit/iajit15.html#GulagizEKS18</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/worldcist/IlkinGHS18" mdate="2021-10-14">
+         <author orcid="0000-0002-0570-2250" pid="218/2929">Sümeyya Ilkin</author>
+         <author pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author pid="218/2943">Fatma Selin Hangisi</author>
+         <author pid="74/2480">Suhap Sahin</author>
+         <title>Computer Aided Wound Area Detection System for Dermatological Images.</title>
+         <pages>820-830</pages>
+         <year>2018</year>
+         <booktitle>WorldCIST (2)</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-77712-2_77</ee>
+         <crossref>conf/worldcist/2018-2</crossref>
+         <url>db/conf/worldcist/worldcist2018-2.html#IlkinGHS18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/jcp/GulagizBK16" mdate="2021-02-25">
+         <author pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author pid="181/0099">Ugur Basaran</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <title>Analyzing Entity Framework Technology for an Indoor Decoration Based Recommendation System.</title>
+         <pages>320-328</pages>
+         <year>2016</year>
+         <volume>11</volume>
+         <journal>J. Comput.</journal>
+         <number>4</number>
+         <ee type="oa">https://doi.org/10.17706/jcp.11.4.320-328</ee>
+         <url>db/journals/jcp/jcp11.html#GulagizBK16</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/monami/GulagizG16" mdate="2017-05-24">
+         <author pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author pid="193/4907">Onur Gök</author>
+         <title>Estimation of Synchronization Time in Cloud Computing Architecture.</title>
+         <pages>19-30</pages>
+         <year>2016</year>
+         <booktitle>MONAMI</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-52712-3_2</ee>
+         <crossref>conf/monami/2016</crossref>
+         <url>db/conf/monami/monami2016.html#GulagizG16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/monami/EkenGSKKI16" mdate="2018-11-14">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author pid="144/4333">Umut Kocasaraç</author>
+         <author pid="144/4531">Zana Ilhan</author>
+         <title>A Novel Signaling Protocol (ARCSPXP): Case Study on Synchronization of Educational Data.</title>
+         <pages>31-43</pages>
+         <year>2016</year>
+         <booktitle>MONAMI</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-52712-3_3</ee>
+         <ee>https://www.wikidata.org/entity/Q57816898</ee>
+         <crossref>conf/monami/2016</crossref>
+         <url>db/conf/monami/monami2016.html#EkenGSKKI16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/GulagizEKS15" mdate="2020-10-25">
+         <author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Estimation of idle time for synchronization: A case study on Fatih project.</title>
+         <pages>1158-1161</pages>
+         <year>2015</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2015.7130041</ee>
+         <ee>https://www.wikidata.org/entity/Q57817083</ee>
+         <crossref>conf/siu/2015</crossref>
+         <url>db/conf/siu/siu2015.html#GulagizEKS15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/EkenKSK14" mdate="2020-10-25">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <title>Tracking a single node's availability for communication by means of observing local system resources.</title>
+         <pages>41-45</pages>
+         <year>2014</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA.2014.6873595</ee>
+         <ee>https://www.wikidata.org/entity/Q57817146</ee>
+         <crossref>conf/inista/2014</crossref>
+         <url>db/conf/inista/inista2014.html#EkenKSK14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/ncca/KayaEIKSKS14" mdate="2020-10-25">
+         <author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="144/4531">Zana Ilhan</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="144/4333">Umut Kocasaraç</author>
+         <author pid="74/2480">Suhap Sahin</author>
+         <title>A Comparative Study of Signaling Protocols for Data Management and Synchronization in Fatih Project with School Level Cloud Proxy Server Deployment.</title>
+         <pages>133-136</pages>
+         <year>2014</year>
+         <booktitle>NCCA</booktitle>
+         <ee>https://doi.org/10.1109/NCCA.2014.29</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/NCCA.2014.29</ee>
+         <ee>https://www.wikidata.org/entity/Q57817104</ee>
+         <crossref>conf/ncca/2014</crossref>
+         <url>db/conf/ncca/ncca2014.html#KayaEIKSKS14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/wicon/EkenKSKS14" mdate="2020-10-25">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author pid="74/2480">Suhap Sahin</author>
+         <title>A Method for Localization of Computational Node and Proxy Server in Educational Data Synchronization.</title>
+         <pages>180-190</pages>
+         <year>2014</year>
+         <booktitle>WICON</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-18802-7_26</ee>
+         <ee>https://www.wikidata.org/entity/Q57817056</ee>
+         <crossref>conf/wicon/2014</crossref>
+         <url>db/conf/wicon/wicon2014.html#EkenKSKS14</url>
+      </inproceedings>
+   </r>
+   <coauthors n="10" nc="1">
+      <co c="0">
+         <na f="b/Basaran:Ugur" pid="181/0099">Ugur Basaran</na>
+      </co>
+      <co c="0">
+         <na f="e/Eken:S=uuml=leyman" pid="121/2902">Süleyman Eken</na>
+      </co>
+      <co c="-1">
+         <na f="g/G=ouml=k:Onur" pid="193/4907">Onur Gök</na>
+      </co>
+      <co c="0">
+         <na f="h/Hangisi:Fatma_Selin" pid="218/2943">Fatma Selin Hangisi</na>
+      </co>
+      <co c="0">
+         <na f="i/Ilhan:Zana" pid="144/4531">Zana Ilhan</na>
+      </co>
+      <co c="0">
+         <na f="i/Ilkin:S=uuml=meyya" pid="218/2929">Sümeyya Ilkin</na>
+      </co>
+      <co c="0">
+         <na f="k/Kavak:Adnan" pid="86/3057">Adnan Kavak</na>
+      </co>
+      <co c="0">
+         <na f="k/Kocasara=ccedil=:Umut" pid="144/4333">Umut Kocasaraç</na>
+      </co>
+      <co c="0">
+         <na f="s/Sahin:Suhap" pid="74/2480">Suhap Sahin</na>
+      </co>
+      <co c="0">
+         <na f="s/Sayar:Ahmet" pid="74/5903">Ahmet Sayar</na>
+      </co>
+   </coauthors>
+</dblpperson>

@@ -1,0 +1,354 @@
+<dblpperson name="Orhan Akbulut" pid="28/2694" n="20">
+	<person key="homepages/28/2694" mdate="2009-06-09">
+		<author pid="28/2694">Orhan Akbulut</author>
+	</person>
+	<r>
+		<article key="journals/sivp/Akbulut21" mdate="2021-04-07">
+			<author orcid="0000-0003-0096-0688" pid="28/2694">Orhan Akbulut</author>
+			<title>A new perspective on decolorization: feature-preserving decolorization.</title>
+			<pages>645-653</pages>
+			<year>2021</year>
+			<volume>15</volume>
+			<journal>Signal Image Video Process.</journal>
+			<number>3</number>
+			<ee>https://doi.org/10.1007/s11760-020-01802-4</ee>
+			<url>db/journals/sivp/sivp15.html#Akbulut21</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/TuncelA21" mdate="2021-07-23">
+			<author pid="297/6500">Tolga Tunçel</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<title>Integral Image based Fast Convolution Operations via Separable Kernels.</title>
+			<pages>1-4</pages>
+			<year>2021</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU53274.2021.9478001</ee>
+			<crossref>conf/siu/2021</crossref>
+			<url>db/conf/siu/siu2021.html#TuncelA21</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/sivp/KonyarAO20" mdate="2020-09-06">
+			<author pid="202/7193">Mehmet Zeki Konyar</author>
+			<author orcid="0000-0003-0096-0688" pid="28/2694">Orhan Akbulut</author>
+			<author pid="88/2253">Sitki Öztürk</author>
+			<title>Matrix encoding-based high-capacity and high-fidelity reversible data hiding in HEVC.</title>
+			<pages>897-905</pages>
+			<year>2020</year>
+			<volume>14</volume>
+			<journal>Signal Image Video Process.</journal>
+			<number>5</number>
+			<ee>https://doi.org/10.1007/s11760-019-01621-2</ee>
+			<url>db/journals/sivp/sivp14.html#KonyarAO20</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/elektrik/MutluGA19" mdate="2021-09-16">
+			<author orcid="0000-0003-0547-0653" pid="53/10411">Alev Mutlu</author>
+			<author orcid="0000-0002-6726-3679" pid="201/1926">Furkan Göz</author>
+			<author orcid="0000-0003-0096-0688" pid="28/2694">Orhan Akbulut</author>
+			<title>lFIT: an unsupervised discretization method based on the Ramer-Douglas-Peucker algorithm.</title>
+			<pages>2344-2360</pages>
+			<year>2019</year>
+			<volume>27</volume>
+			<journal>Turkish J. Electr. Eng. Comput. Sci.</journal>
+			<number>3</number>
+			<ee type="oa">https://doi.org/10.3906/elk-1806-192</ee>
+			<url>db/journals/elektrik/elektrik27.html#MutluGA19</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/iet-ipr/KucukmanisaAU19" mdate="2022-04-09">
+			<author pid="158/0568">Ayhan Kucukmanisa</author>
+			<author orcid="0000-0003-0096-0688" pid="28/2694">Orhan Akbulut</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<title>Robust and real-time lane detection filter based on adaptive neuro-fuzzy inference system.</title>
+			<pages>1181-1190</pages>
+			<year>2019</year>
+			<volume>13</volume>
+			<journal>IET Image Process.</journal>
+			<number>7</number>
+			<ee>https://doi.org/10.1049/iet-ipr.2018.6236</ee>
+			<url>db/journals/iet-ipr/iet-ipr13.html#KucukmanisaAU19</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/spic/DuvarAU19" mdate="2022-04-09">
+			<author pid="158/0464">Ramazan Duvar</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<title>Fast inter mode decision exploiting intra-block similarity in HEVC.</title>
+			<pages>503-510</pages>
+			<year>2019</year>
+			<volume>78</volume>
+			<journal>Signal Process. Image Commun.</journal>
+			<ee>https://doi.org/10.1016/j.image.2019.08.010</ee>
+			<url>db/journals/spic/spic78.html#DuvarAU19</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/KulDA19" mdate="2019-08-29">
+			<author pid="191/1289">Seda Kul</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<title>Performance Comparison of EEG Channels in Emotion Recognition.</title>
+			<pages>1-4</pages>
+			<year>2019</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2019.8806538</ee>
+			<crossref>conf/siu/2019</crossref>
+			<url>db/conf/siu/siu2019.html#KulDA19</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/DuvarKACU18" mdate="2022-04-09">
+			<author pid="158/0464">Ramazan Duvar</author>
+			<author pid="158/0568">Ayhan Kucukmanisa</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author pid="27/10695">Aysun Tasyapi Çelebi</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<title>Performance analysis of one-bit transform based motion estimation using sparse search on HEVC.</title>
+			<pages>1-4</pages>
+			<year>2018</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2018.8404776</ee>
+			<crossref>conf/siu/2018</crossref>
+			<url>db/conf/siu/siu2018.html#DuvarKACU18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/GozMA18" mdate="2021-05-19">
+			<author pid="201/1926">Furkan Göz</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<title>Analysis of Ramer-Douglas-Peucker algorithm as a discretization method.</title>
+			<pages>1-4</pages>
+			<year>2018</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2018.8404748</ee>
+			<crossref>conf/siu/2018</crossref>
+			<url>db/conf/siu/siu2018.html#GozMA18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/AkbulutDKU17" mdate="2022-04-09">
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author pid="158/0464">Ramazan Duvar</author>
+			<author pid="158/0568">Ayhan Kucukmanisa</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<title>Multi band pass filter based one-bit transforms in motion estimation.</title>
+			<pages>1-4</pages>
+			<year>2017</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2017.7960514</ee>
+			<crossref>conf/siu/2017</crossref>
+			<url>db/conf/siu/siu2017.html#AkbulutDKU17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/DuvarKACU17" mdate="2022-04-09">
+			<author pid="158/0464">Ramazan Duvar</author>
+			<author pid="158/0568">Ayhan Kucukmanisa</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author pid="27/10695">Aysun Tasyapi Çelebi</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<title>Implementation of 1 -bit transform based motion estimation to HEVC encoder.</title>
+			<pages>1-4</pages>
+			<year>2017</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2017.7960607</ee>
+			<ee>https://www.wikidata.org/entity/Q59167193</ee>
+			<crossref>conf/siu/2017</crossref>
+			<url>db/conf/siu/siu2017.html#DuvarKACU17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/TopuzOA16" mdate="2017-11-08">
+			<author pid="208/1206">Buse Topuz</author>
+			<author pid="158/0442">Ersin Ozuag</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<title>Kinect sensor based physiotherapy management.</title>
+			<pages>2209-2212</pages>
+			<year>2016</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2016.7496213</ee>
+			<crossref>conf/siu/2016</crossref>
+			<url>db/conf/siu/siu2016.html#TopuzOA16</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/AkbulutCU15" mdate="2022-04-09">
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author pid="27/10695">Aysun Tasyapi Çelebi</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<title>Implementation of truncated gray-coded bit-plane matching based motion estimation to HEVC.</title>
+			<pages>2230-2233</pages>
+			<year>2015</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2015.7130319</ee>
+			<crossref>conf/siu/2015</crossref>
+			<url>db/conf/siu/siu2015.html#AkbulutCU15</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/AkbulutE14" mdate="2017-05-24">
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author pid="11/503">Sarp Ertürk</author>
+			<title>A probabilistic approach for fast covariance descriptor.</title>
+			<pages>2166-2169</pages>
+			<year>2014</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2014.6830692</ee>
+			<crossref>conf/siu/2014</crossref>
+			<url>db/conf/siu/siu2014.html#AkbulutE14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/AkbulutUE13" mdate="2022-04-09">
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<author pid="11/503">Sarp Ertürk</author>
+			<title>Region covariance descriptor based probabilistic object tracking using enhanced similarity criterion.</title>
+			<pages>1-4</pages>
+			<year>2013</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2013.6531428</ee>
+			<crossref>conf/siu/2013</crossref>
+			<url>db/conf/siu/siu2013.html#AkbulutUE13</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/tce/CelebiAUE09" mdate="2022-04-09">
+			<author orcid="0000-0002-0921-3040" pid="88/9933">Anil Çelebi</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<author pid="11/503">Sarp Ertürk</author>
+			<title>Truncated graycoded bit-plane matching based motion estimation and its hardware architecture.</title>
+			<pages>1530-1536</pages>
+			<year>2009</year>
+			<volume>55</volume>
+			<journal>IEEE Trans. Consumer Electron.</journal>
+			<number>3</number>
+			<ee>https://doi.org/10.1109/TCE.2009.5278023</ee>
+			<ee>https://www.wikidata.org/entity/Q59167221</ee>
+			<url>db/journals/tce/tce55.html#CelebiAUE09</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/spl/AkbulutUE08" mdate="2022-04-09">
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<author pid="11/503">Sarp Ertürk</author>
+			<title>Improved Block Motion Estimation Using Block Frequency Warping.</title>
+			<pages>143-145</pages>
+			<year>2008</year>
+			<volume>15</volume>
+			<journal>IEEE Signal Process. Lett.</journal>
+			<ee>https://doi.org/10.1109/LSP.2007.914795</ee>
+			<url>db/journals/spl/spl15.html#AkbulutUE08</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/tce/AkbulutUEC08" mdate="2022-04-09">
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<author pid="11/503">Sarp Ertürk</author>
+			<author pid="66/4888">Tae-Gyu Chang</author>
+			<title>One-dimensional processing for efficient optimal post-process/in-loop filtering in video coding.</title>
+			<pages>1346-1354</pages>
+			<year>2008</year>
+			<volume>54</volume>
+			<journal>IEEE Trans. Consumer Electron.</journal>
+			<number>3</number>
+			<ee>https://doi.org/10.1109/TCE.2008.4637626</ee>
+			<url>db/journals/tce/tce54.html#AkbulutUEC08</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/tce/CelebiAUHE08" mdate="2022-04-09">
+			<author orcid="0000-0002-0921-3040" pid="88/9933">Anil Çelebi</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<author pid="66/4492">Ilker Hamzaoglu</author>
+			<author pid="11/503">Sarp Ertürk</author>
+			<title>An all binary sub-pixel motion estimation approach and its hardware architecture.</title>
+			<pages>1928-1937</pages>
+			<year>2008</year>
+			<volume>54</volume>
+			<journal>IEEE Trans. Consumer Electron.</journal>
+			<number>4</number>
+			<ee>https://doi.org/10.1109/TCE.2008.4711255</ee>
+			<ee>https://www.wikidata.org/entity/Q59167224</ee>
+			<url>db/journals/tce/tce54.html#CelebiAUHE08</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/iscis/AkbulutUE06" mdate="2022-04-09">
+			<author pid="28/2694">Orhan Akbulut</author>
+			<author orcid="0000-0002-0352-1560" pid="05/1439">Oguzhan Urhan</author>
+			<author pid="11/503">Sarp Ertürk</author>
+			<title>Fast Sub-pixel Motion Estimation by Means of One-Bit Transform.</title>
+			<pages>503-510</pages>
+			<year>2006</year>
+			<crossref>conf/iscis/2006</crossref>
+			<booktitle>ISCIS</booktitle>
+			<ee>https://doi.org/10.1007/11902140_54</ee>
+			<url>db/conf/iscis/iscis2006.html#AkbulutUE06</url>
+		</inproceedings>
+	</r>
+	<coauthors n="17" nc="2">
+		<co c="0">
+			<na f="=/=Ccedil=elebi:Anil" pid="88/9933">Anil Çelebi</na>
+		</co>
+		<co c="0">
+			<na f="=/=Ccedil=elebi:Aysun_Tasyapi" pid="27/10695">Aysun Tasyapi Çelebi</na>
+		</co>
+		<co c="0">
+			<na f="c/Chang:Tae=Gyu" pid="66/4888">Tae-Gyu Chang</na>
+		</co>
+		<co c="1">
+			<na f="d/Durdu:Pinar_Onay" pid="66/7706">Pinar Onay Durdu</na>
+		</co>
+		<co c="0">
+			<na f="d/Duvar:Ramazan" pid="158/0464">Ramazan Duvar</na>
+		</co>
+		<co c="0">
+			<na f="e/Ert=uuml=rk:Sarp" pid="11/503">Sarp Ertürk</na>
+		</co>
+		<co c="1">
+			<na f="g/G=ouml=z:Furkan" pid="201/1926">Furkan Göz</na>
+		</co>
+		<co c="0">
+			<na f="h/Hamzaoglu:Ilker" pid="66/4492">Ilker Hamzaoglu</na>
+		</co>
+		<co c="0" n="2">
+			<na f="k/Konyar:M=_Zeki" pid="202/7193">M. Zeki Konyar</na>
+			<na>Mehmet Zeki Konyar</na>
+		</co>
+		<co c="0">
+			<na f="k/Kucukmanisa:Ayhan" pid="158/0568">Ayhan Kucukmanisa</na>
+		</co>
+		<co c="1">
+			<na f="k/Kul:Seda" pid="191/1289">Seda Kul</na>
+		</co>
+		<co c="1">
+			<na f="m/Mutlu:Alev" pid="53/10411">Alev Mutlu</na>
+		</co>
+		<co c="0">
+			<na f="=/=Ouml=zt=uuml=rk:Sitki" pid="88/2253">Sitki Öztürk</na>
+		</co>
+		<co c="0">
+			<na f="o/Ozuag:Ersin" pid="158/0442">Ersin Ozuag</na>
+		</co>
+		<co c="0">
+			<na f="t/Topuz:Buse" pid="208/1206">Buse Topuz</na>
+		</co>
+		<co c="-1">
+			<na f="t/Tun=ccedil=el:Tolga" pid="297/6500">Tolga Tunçel</na>
+		</co>
+		<co c="0">
+			<na f="u/Urhan:Oguzhan" pid="05/1439">Oguzhan Urhan</na>
+		</co>
+	</coauthors>
+</dblpperson>

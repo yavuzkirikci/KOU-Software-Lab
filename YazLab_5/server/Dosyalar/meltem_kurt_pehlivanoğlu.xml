@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblpperson name="Meltem Kurt PehlIvanoõlu" pid="315/9623" n="4">
+   <person key="homepages/315/9623" mdate="2022-03-16">
+      <author pid="315/9623">Meltem Kurt PehlIvanoõlu</author>
+   </person>
+   <r>
+      <inproceedings key="conf/siu/CalisirP19" mdate="2021-08-27">
+         <author pid="247/8909">Sinan Çalisir</author>
+         <author orcid="0000-0002-7581-9390" pid="315/9623">Meltem Kurt PehlIvanoõlu</author>
+         <title>Model-Free Reinforcement Learning Algorithms: A Survey.</title>
+         <pages>1-4</pages>
+         <year>2019</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2019.8806389</ee>
+         <crossref>conf/siu/2019</crossref>
+         <url>db/conf/siu/siu2019.html#CalisirP19</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/iet-ifs/PehlivanogluSAD18" mdate="2021-10-14">
+         <author orcid="0000-0002-7581-9390" pid="315/9623">Meltem Kurt PehlIvanoõlu</author>
+         <author pid="69/4156">Muharrem Tolga Sakalli</author>
+         <author orcid="0000-0001-7005-6489" pid="07/8815">Sedat Akleylek</author>
+         <author pid="63/6826">Nevcihan Duru</author>
+         <author orcid="0000-0001-7401-2088" pid="r/VincentRijmen">Vincent Rijmen</author>
+         <title>Generalisation of Hadamard matrix to generate involutory MDS matrices for lightweight cryptography.</title>
+         <pages>348-355</pages>
+         <year>2018</year>
+         <volume>12</volume>
+         <journal>IET Inf. Secur.</journal>
+         <number>4</number>
+         <ee>https://doi.org/10.1049/iet-ifs.2017.0156</ee>
+         <url>db/journals/iet-ifs/iet-ifs12.html#PehlivanogluSAD18</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/PehlivanogluD16" mdate="2021-08-27">
+         <author orcid="0000-0002-7581-9390" pid="315/9623">Meltem Kurt PehlIvanoõlu</author>
+         <author pid="63/6826">Nevcihan Duru</author>
+         <title>Encryption of Walsh Hadamard Transform applied images with the AES encryption algorithm.</title>
+         <pages>301-304</pages>
+         <year>2016</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2016.7495737</ee>
+         <crossref>conf/siu/2016</crossref>
+         <url>db/conf/siu/siu2016.html#PehlivanogluD16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/PehlivanogluSD15" mdate="2021-08-27">
+         <author orcid="0000-0002-7581-9390" pid="315/9623">Meltem Kurt PehlIvanoõlu</author>
+         <author pid="208/1354">Burcu Kir Savas</author>
+         <author pid="63/6826">Nevcihan Duru</author>
+         <title>LSB based steganography over video files using Koblitz's Method.</title>
+         <pages>1034-1037</pages>
+         <year>2015</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2015.7130009</ee>
+         <crossref>conf/siu/2015</crossref>
+         <url>db/conf/siu/siu2015.html#PehlivanogluSD15</url>
+      </inproceedings>
+   </r>
+   <coauthors n="6" nc="1">
+      <co c="0">
+         <na f="a/Akleylek:Sedat" pid="07/8815">Sedat Akleylek</na>
+      </co>
+      <co c="-1">
+         <na f="=/=Ccedil=alisir:Sinan" pid="247/8909">Sinan Çalisir</na>
+      </co>
+      <co c="0">
+         <na f="d/Duru:Nevcihan" pid="63/6826">Nevcihan Duru</na>
+      </co>
+      <co c="0">
+         <na f="r/Rijmen:Vincent" pid="r/VincentRijmen">Vincent Rijmen</na>
+      </co>
+      <co c="0" n="2">
+         <na f="s/Sakalli:M=_Tolga" pid="69/4156">M. Tolga Sakalli</na>
+         <na>Muharrem Tolga Sakalli</na>
+      </co>
+      <co c="0">
+         <na f="s/Savas:Burcu_Kir" pid="208/1354">Burcu Kir Savas</na>
+      </co>
+   </coauthors>
+</dblpperson>

@@ -1,0 +1,52 @@
+<dblpperson name="Mehmet Ali Altuncu" pid="225/2978" n="2">
+	<person key="homepages/225/2978" mdate="2018-08-26">
+		<author pid="225/2978">Mehmet Ali Altuncu</author>
+	</person>
+	<r>
+		<inproceedings key="conf/siu/AltuncuKCS18" mdate="2020-10-25">
+			<author orcid="0000-0002-2948-3937" pid="225/2978">Mehmet Ali Altuncu</author>
+			<author pid="225/3405">Mehmet Muzaffer Kosten</author>
+			<author pid="225/3300">Metaet Ali Çavuslu</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<title>FPGA-based implementation of basic image processing applications as low-cost IP core.</title>
+			<pages>1-4</pages>
+			<year>2018</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2018.8404175</ee>
+			<crossref>conf/siu/2018</crossref>
+			<url>db/conf/siu/siu2018.html#AltuncuKCS18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/AltuncuTCS18" mdate="2018-08-26">
+			<author pid="225/2978">Mehmet Ali Altuncu</author>
+			<author pid="225/3311">Bahadir Turkoglu</author>
+			<author pid="23/9404">Mehmet Ali Çavuslu</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<title>Implementation of K-means algorithm on FGGA.</title>
+			<pages>1-4</pages>
+			<year>2018</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2018.8404176</ee>
+			<crossref>conf/siu/2018</crossref>
+			<url>db/conf/siu/siu2018.html#AltuncuTCS18</url>
+		</inproceedings>
+	</r>
+	<coauthors n="5" nc="1">
+		<co c="0">
+			<na f="=/=Ccedil=avuslu:Mehmet_Ali" pid="23/9404">Mehmet Ali Çavuslu</na>
+		</co>
+		<co c="0">
+			<na f="=/=Ccedil=avuslu:Metaet_Ali" pid="225/3300">Metaet Ali Çavuslu</na>
+		</co>
+		<co c="0">
+			<na f="k/Kosten:Mehmet_Muzaffer" pid="225/3405">Mehmet Muzaffer Kosten</na>
+		</co>
+		<co c="0">
+			<na f="s/Sahin:Suhap" pid="74/2480">Suhap Sahin</na>
+		</co>
+		<co c="0">
+			<na f="t/Turkoglu:Bahadir" pid="225/3311">Bahadir Turkoglu</na>
+		</co>
+	</coauthors>
+</dblpperson>

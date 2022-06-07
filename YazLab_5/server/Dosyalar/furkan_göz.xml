@@ -1,0 +1,168 @@
+<dblpperson name="Furkan Göz" pid="201/1926" n="9">
+	<person key="homepages/201/1926" mdate="2021-05-19">
+		<author pid="201/1926">Furkan Göz</author>
+	</person>
+	<r>
+		<article key="journals/cj/MutluG22" mdate="2022-04-05">
+			<author pid="53/10411">Alev Mutlu</author>
+			<author pid="201/1926">Furkan Göz</author>
+			<title>
+: A Hybrid Method for Landslide Susceptibility Assessment based on Landslide-Occurring Data Only.
+
+			</title>
+			<pages>473-483</pages>
+			<year>2022</year>
+			<volume>65</volume>
+			<journal>Comput. J.</journal>
+			<number>3</number>
+			<ee>https://doi.org/10.1093/comjnl/bxaa063</ee>
+			<url>db/journals/cj/cj65.html#MutluG22</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/inista/GozSMKT21" mdate="2021-10-07">
+			<author pid="201/1926">Furkan Göz</author>
+			<author pid="303/3942">Fehmi Sener</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<author pid="297/6411">Kerem Küçük</author>
+			<author pid="297/6826">Mahir Temur</author>
+			<title>Learning to Rank for Text Summarization: Revisiting the Features and Methods for Turkish Bank Documents.</title>
+			<pages>1-5</pages>
+			<year>2021</year>
+			<booktitle>INISTA</booktitle>
+			<ee>https://doi.org/10.1109/INISTA52262.2021.9548536</ee>
+			<crossref>conf/inista/2021</crossref>
+			<url>db/conf/inista/inista2021.html#GozSMKT21</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/GozMKTG21" mdate="2021-07-23">
+			<author pid="201/1926">Furkan Göz</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<author pid="297/6411">Kerem Küçük</author>
+			<author pid="297/6826">Mahir Temur</author>
+			<author pid="297/6594">Abdurrahman Gün</author>
+			<title>Effect of Centrality Measures for Keyword Extraction from Turkish Documents.</title>
+			<pages>1-4</pages>
+			<year>2021</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU53274.2021.9477807</ee>
+			<crossref>conf/siu/2021</crossref>
+			<url>db/conf/siu/siu2021.html#GozMKTG21</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/GozKM20" mdate="2021-05-19">
+			<author pid="201/1926">Furkan Göz</author>
+			<author pid="283/8821">Osman Kabasakal</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<title>Experimental Analysis of Keyword-based Social Network Similarity Approach for Document Classification.</title>
+			<pages>1-4</pages>
+			<year>2020</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU49456.2020.9302224</ee>
+			<crossref>conf/siu/2020</crossref>
+			<url>db/conf/siu/siu2020.html#GozKM20</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/elektrik/MutluGA19" mdate="2021-09-16">
+			<author orcid="0000-0003-0547-0653" pid="53/10411">Alev Mutlu</author>
+			<author orcid="0000-0002-6726-3679" pid="201/1926">Furkan Göz</author>
+			<author orcid="0000-0003-0096-0688" pid="28/2694">Orhan Akbulut</author>
+			<title>lFIT: an unsupervised discretization method based on the Ramer-Douglas-Peucker algorithm.</title>
+			<pages>2344-2360</pages>
+			<year>2019</year>
+			<volume>27</volume>
+			<journal>Turkish J. Electr. Eng. Comput. Sci.</journal>
+			<number>3</number>
+			<ee type="oa">https://doi.org/10.3906/elk-1806-192</ee>
+			<url>db/journals/elektrik/elektrik27.html#MutluGA19</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/ic3k/ErdemirGMK19" mdate="2021-05-19">
+			<author pid="251/0475">Mert Erdemir</author>
+			<author pid="201/1926">Furkan Göz</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+			<title>Comparison of Querying Performance of Neo4j on Graph and Hyper-graph Data Model.</title>
+			<pages>397-404</pages>
+			<year>2019</year>
+			<booktitle>KDIR</booktitle>
+			<ee>https://doi.org/10.5220/0008214503970404</ee>
+			<crossref>conf/ic3k/2019kdir</crossref>
+			<url>db/conf/ic3k/kdir2019.html#ErdemirGMK19</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/hais/GozM18" mdate="2021-05-19">
+			<author pid="201/1926">Furkan Göz</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<title>Learning Logical Definitions of n-Ary Relations in Graph Databases.</title>
+			<pages>50-61</pages>
+			<year>2018</year>
+			<booktitle>HAIS</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-92639-1_5</ee>
+			<crossref>conf/hais/2018</crossref>
+			<url>db/conf/hais/hais2018.html#GozM18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/GozMA18" mdate="2021-05-19">
+			<author pid="201/1926">Furkan Göz</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<title>Analysis of Ramer-Douglas-Peucker algorithm as a discretization method.</title>
+			<pages>1-4</pages>
+			<year>2018</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2018.8404748</ee>
+			<crossref>conf/siu/2018</crossref>
+			<url>db/conf/siu/siu2018.html#GozMA18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/hais/GozM17" mdate="2021-05-19">
+			<author pid="201/1926">Furkan Göz</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<title>Concept Discovery in Graph Databases - A Case Study with Neo4j.</title>
+			<pages>63-74</pages>
+			<year>2017</year>
+			<booktitle>HAIS</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-59650-1_6</ee>
+			<crossref>conf/hais/2017</crossref>
+			<url>db/conf/hais/hais2017.html#GozM17</url>
+		</inproceedings>
+	</r>
+	<coauthors n="9" nc="1">
+		<co c="0">
+			<na f="a/Akbulut:Orhan" pid="28/2694">Orhan Akbulut</na>
+		</co>
+		<co c="0">
+			<na f="e/Erdemir:Mert" pid="251/0475">Mert Erdemir</na>
+		</co>
+		<co c="0">
+			<na f="g/G=uuml=n:Abdurrahman" pid="297/6594">Abdurrahman Gün</na>
+		</co>
+		<co c="0">
+			<na f="k/Kabasakal:Osman" pid="283/8821">Osman Kabasakal</na>
+		</co>
+		<co c="0" n="2">
+			<na f="k/Karag=ouml=z:Pinar" pid="s/PinarSenkul">Pinar Karagöz</na>
+			<na>Pinar Karagoz</na>
+		</co>
+		<co c="0">
+			<na f="k/K=uuml==ccedil==uuml=k:Kerem" pid="297/6411">Kerem Küçük</na>
+		</co>
+		<co c="0">
+			<na f="m/Mutlu:Alev" pid="53/10411">Alev Mutlu</na>
+		</co>
+		<co c="0">
+			<na f="s/Sener:Fehmi" pid="303/3942">Fehmi Sener</na>
+		</co>
+		<co c="0">
+			<na f="t/Temur:Mahir" pid="297/6826">Mahir Temur</na>
+		</co>
+	</coauthors>
+</dblpperson>

@@ -1,0 +1,43 @@
+<dblpperson name="A. Burak Inner" pid="225/3328" n="2">
+	<person key="homepages/225/3328" mdate="2018-08-26">
+		<author pid="225/3328">A. Burak Inner</author>
+	</person>
+	<r>
+		<inproceedings key="conf/siu/AvcuKI18" mdate="2022-01-03">
+			<author pid="225/2953">Furkan Avcu</author>
+			<author pid="86/3057">Adnan Kavak</author>
+			<author orcid="0000-0003-0933-654X" pid="225/3328">A. Burak Inner</author>
+			<title>QRS detection on IOS platform based on single channel practical ECG measurement for remote patient monitoring.</title>
+			<pages>1-4</pages>
+			<year>2018</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2018.8404656</ee>
+			<crossref>conf/siu/2018</crossref>
+			<url>db/conf/siu/siu2018.html#AvcuKI18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/TorunI18" mdate="2022-01-03">
+			<author pid="225/3307">Hakan Torun</author>
+			<author orcid="0000-0003-0933-654X" pid="225/3328">A. Burak Inner</author>
+			<title>Detecting similar news by summarizing Turkish news.</title>
+			<pages>1-4</pages>
+			<year>2018</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2018.8404826</ee>
+			<crossref>conf/siu/2018</crossref>
+			<url>db/conf/siu/siu2018.html#TorunI18</url>
+		</inproceedings>
+	</r>
+	<coauthors n="3" nc="1">
+		<co c="0">
+			<na f="a/Avcu:Furkan" pid="225/2953">Furkan Avcu</na>
+		</co>
+		<co c="0">
+			<na f="k/Kavak:Adnan" pid="86/3057">Adnan Kavak</na>
+		</co>
+		<co c="-1">
+			<na f="t/Torun:Hakan" pid="225/3307">Hakan Torun</na>
+		</co>
+	</coauthors>
+</dblpperson>

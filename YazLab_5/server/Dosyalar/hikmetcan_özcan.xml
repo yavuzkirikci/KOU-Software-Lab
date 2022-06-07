@@ -1,0 +1,74 @@
+<dblpperson name="Hikmetcan Ozcan" pid="219/7923" n="3">
+	<person key="homepages/219/7923" mdate="2018-05-23">
+		<author pid="219/7923">Hikmetcan Ozcan</author>
+	</person>
+	<r>
+		<article key="journals/access/SahinOK18" mdate="2018-07-04">
+			<author orcid="0000-0003-1340-8972" pid="74/2480">Suhap Sahin</author>
+			<author orcid="0000-0002-7146-203X" pid="219/7923">Hikmetcan Ozcan</author>
+			<author orcid="0000-0002-2621-634X" pid="21/4523">Kerem Kucuk</author>
+			<title>Smarttag: An Indoor Positioning System Based on Smart Transmit Power Scheme Using Active Tags.</title>
+			<pages>23500-23510</pages>
+			<year>2018</year>
+			<volume>6</volume>
+			<journal>IEEE Access</journal>
+			<ee type="oa">https://doi.org/10.1109/ACCESS.2018.2824538</ee>
+			<url>db/journals/access/access6.html#SahinOK18</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/MentesogluKYTSO15" mdate="2020-09-05">
+			<author pid="258/0040">Mustafa Mentesoglu</author>
+			<author pid="86/3057">Adnan Kavak</author>
+			<author pid="57/2641">Mehmet Yakut</author>
+			<author pid="127/4793">Ali Tangel</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<author orcid="0000-0002-7146-203X" pid="219/7923">Hikmetcan Ozcan</author>
+			<title>Design and implementation of a communication protocol for mobile device controlled smart home management system.</title>
+			<pages>1370-1373</pages>
+			<year>2015</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2015.7130096</ee>
+			<crossref>conf/siu/2015</crossref>
+			<url>db/conf/siu/siu2015.html#MentesogluKYTSO15</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/OzcanSMP15" mdate="2020-09-05">
+			<author orcid="0000-0002-7146-203X" pid="219/7923">Hikmetcan Ozcan</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<author pid="258/0040">Mustafa Mentesoglu</author>
+			<author pid="257/9923">Fatih Pir</author>
+			<title>Indoor reduction of noise in RF signal with Kalman Filter.</title>
+			<pages>2013-2016</pages>
+			<year>2015</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2015.7130260</ee>
+			<crossref>conf/siu/2015</crossref>
+			<url>db/conf/siu/siu2015.html#OzcanSMP15</url>
+		</inproceedings>
+	</r>
+	<coauthors n="7" nc="1">
+		<co c="0">
+			<na f="k/Kavak:Adnan" pid="86/3057">Adnan Kavak</na>
+		</co>
+		<co c="0">
+			<na f="k/Kucuk:Kerem" pid="21/4523">Kerem Kucuk</na>
+		</co>
+		<co c="0">
+			<na f="m/Mentesoglu:Mustafa" pid="258/0040">Mustafa Mentesoglu</na>
+		</co>
+		<co c="0">
+			<na f="p/Pir:Fatih" pid="257/9923">Fatih Pir</na>
+		</co>
+		<co c="0">
+			<na f="s/Sahin:Suhap" pid="74/2480">Suhap Sahin</na>
+		</co>
+		<co c="0">
+			<na f="t/Tangel:Ali" pid="127/4793">Ali Tangel</na>
+		</co>
+		<co c="0">
+			<na f="y/Yakut:Mehmet" pid="57/2641">Mehmet Yakut</na>
+		</co>
+	</coauthors>
+</dblpperson>

@@ -1,0 +1,323 @@
+<dblpperson name="Pinar Onay Durdu" pid="66/7706" n="19">
+	<person key="homepages/66/7706" mdate="2010-01-11">
+		<author pid="66/7706">Pinar Onay Durdu</author>
+	</person>
+	<r>
+		<article key="journals/smr/GuncanD21" mdate="2021-03-23">
+			<author pid="287/0234">Damla Güncan</author>
+			<author orcid="0000-0002-0439-1702" pid="66/7706">Pinar Onay Durdu</author>
+			<title>A user-centered behavioral software development model.</title>
+			<year>2021</year>
+			<volume>33</volume>
+			<journal>J. Softw. Evol. Process.</journal>
+			<number>2</number>
+			<ee>https://doi.org/10.1002/smr.2274</ee>
+			<url>db/journals/smr/smr33.html#GuncanD21</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/csi/DenizD19" mdate="2020-02-20">
+			<author orcid="0000-0002-6851-9402" pid="174/8935">Gencay Deniz</author>
+			<author orcid="0000-0002-0439-1702" pid="66/7706">Pinar Onay Durdu</author>
+			<title>A comparison of mobile form controls for different tasks.</title>
+			<pages>97-106</pages>
+			<year>2019</year>
+			<volume>61</volume>
+			<journal>Comput. Stand. Interfaces</journal>
+			<ee>https://doi.org/10.1016/j.csi.2018.06.001</ee>
+			<url>db/journals/csi/csi61.html#DenizD19</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/ijea/ArpaciDM19" mdate="2021-10-14">
+			<author orcid="0000-0001-6513-4569" pid="28/9535">Ibrahim Arpaci</author>
+			<author orcid="0000-0002-0439-1702" pid="66/7706">Pinar Onay Durdu</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<title>The Role of Self-Efficacy and Perceived Enjoyment in Predicting Computer Engineering Students' Continuous Use Intention of Scratch.</title>
+			<pages>1-12</pages>
+			<year>2019</year>
+			<volume>11</volume>
+			<journal>Int. J. E Adopt.</journal>
+			<number>2</number>
+			<ee>https://doi.org/10.4018/IJEA.2019070101</ee>
+			<url>db/journals/ijea/ijea11.html#ArpaciDM19</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/smr/CetinD19" mdate="2022-03-16">
+			<author pid="151/2443">Esra Çetin</author>
+			<author orcid="0000-0002-0439-1702" pid="66/7706">Pinar Onay Durdu</author>
+			<title>Blended Scrum model for software development organizations.</title>
+			<year>2019</year>
+			<volume>31</volume>
+			<journal>J. Softw. Evol. Process.</journal>
+			<number>2</number>
+			<ee>https://doi.org/10.1002/smr.2147</ee>
+			<ee>https://www.wikidata.org/entity/Q110566226</ee>
+			<url>db/journals/smr/smr31.html#CetinD19</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/KulDA19" mdate="2019-08-29">
+			<author pid="191/1289">Seda Kul</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<author pid="28/2694">Orhan Akbulut</author>
+			<title>Performance Comparison of EEG Channels in Emotion Recognition.</title>
+			<pages>1-4</pages>
+			<year>2019</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2019.8806538</ee>
+			<crossref>conf/siu/2019</crossref>
+			<url>db/conf/siu/siu2019.html#KulDA19</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/hci/TurkcanD18" mdate="2018-07-10">
+			<author pid="222/7367">A. Kürsad Türkcan</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Entry and Selection Methods for Specifying Dates in Mobile Context.</title>
+			<pages>92-100</pages>
+			<year>2018</year>
+			<booktitle>HCI (3)</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-91250-9_8</ee>
+			<crossref>conf/hci/2018-3</crossref>
+			<url>db/conf/hci/hci2018-3.html#TurkcanD18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/hci/YerlikayaD17" mdate="2017-06-28">
+			<author pid="202/0015">Zehra Yerlikaya</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Usability of University Websites: A Systematic Review.</title>
+			<pages>277-287</pages>
+			<year>2017</year>
+			<booktitle>HCI (7)</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-58706-6_22</ee>
+			<crossref>conf/hci/2017-7</crossref>
+			<url>db/conf/hci/hci2017-7.html#YerlikayaD17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/hci/YerlikayaD17a" mdate="2017-07-03">
+			<author pid="202/0015">Zehra Yerlikaya</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Evaluation of Accessibility of University Websites: A Case from Turkey.</title>
+			<pages>663-668</pages>
+			<year>2017</year>
+			<booktitle>HCI (30)</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-58753-0_94</ee>
+			<crossref>conf/hci/2017-30</crossref>
+			<url>db/conf/hci/hci2017-30.html#YerlikayaD17a</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/uyms/AytekinAD17" mdate="2019-05-28">
+			<author pid="224/9052">Fatma Gozde Aytekin</author>
+			<author pid="224/8860">Emrah Altug</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Kullanici Merkezli Tasarim Yaklasimi ile Isletme Ici Uygulama Gelistirme Deneyimi: Satis Yonetimi Onay Yazilimi Ornegi(In-house Application Development Experience with User Centered Design Approach: Sales Management Approval Software Case).</title>
+			<pages>53-64</pages>
+			<year>2017</year>
+			<booktitle>UYMS</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-1980/UYMS17_paper_46.pdf</ee>
+			<crossref>conf/uyms/2017</crossref>
+			<url>db/conf/uyms/uyms2017.html#AytekinAD17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/hci/DenizD16a" mdate="2017-05-24">
+			<author pid="174/8935">Gencay Deniz</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Comparison of Mobile Input Methods.</title>
+			<pages>3-13</pages>
+			<year>2016</year>
+			<booktitle>HCI (18)</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-40406-6_1</ee>
+			<crossref>conf/hci/2016-18</crossref>
+			<url>db/conf/hci/hci2016-18.html#DenizD16a</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/hci/DenizD16" mdate="2017-05-24">
+			<author pid="174/8935">Gencay Deniz</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>BCI-Related Research Focus at HCI International Conference.</title>
+			<pages>151-161</pages>
+			<year>2016</year>
+			<booktitle>HCI (2)</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-39516-6_14</ee>
+			<crossref>conf/hci/2016-2</crossref>
+			<url>db/conf/hci/hci2016-2.html#DenizD16</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/uyms/AlicD15" mdate="2019-05-28">
+			<author pid="174/8694">Emre Aliç</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Bilgi Teknolojileri Proje Yönetişimi: Türkiye'deki Organizasyonların Durumu.</title>
+			<year>2015</year>
+			<booktitle>UYMS</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-1483/36_Bildiri.pdf</ee>
+			<crossref>conf/uyms/2015</crossref>
+			<url>db/conf/uyms/uyms2015.html#AlicD15</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/uyms/TurdalievBDDIM15" mdate="2019-05-28">
+			<author pid="174/8657">Nursultan Turdaliev</author>
+			<author pid="174/8604">Burcu Bilgin</author>
+			<author pid="174/8935">Gencay Deniz</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<author pid="124/4076">Davut Incebacak</author>
+			<author pid="53/10411">Alev Mutlu</author>
+			<title>UYMS Araştırma Eğilimleri: Bir Sistematik Eşleme Çalışması.</title>
+			<year>2015</year>
+			<booktitle>UYMS</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-1483/58_Bildiri.pdf</ee>
+			<crossref>conf/uyms/2015</crossref>
+			<url>db/conf/uyms/uyms2015.html#TurdalievBDDIM15</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/hci/BozyerD14" mdate="2017-05-24">
+			<author pid="145/5555">Zafer Bozyer</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Heuristic Evaluation of a MMORPG: Guild Wars 2.</title>
+			<pages>9-14</pages>
+			<year>2014</year>
+			<booktitle>HCI (27)</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-07854-0_2</ee>
+			<crossref>conf/hci/2014-27</crossref>
+			<url>db/conf/hci/hci2014-27.html#BozyerD14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/hci/SimsekD14" mdate="2017-05-24">
+			<author pid="145/5550">Serdar Simsek</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Developing an Interactive Learning Environment with Kinect.</title>
+			<pages>150-155</pages>
+			<year>2014</year>
+			<booktitle>HCI (27)</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-07854-0_27</ee>
+			<crossref>conf/hci/2014-27</crossref>
+			<url>db/conf/hci/hci2014-27.html#SimsekD14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/uyms/BatiD14" mdate="2019-05-28">
+			<author pid="151/2543">Baki Bati</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Rapsim Web Sitesi Kullanılabilirlik Araştırması : Bir Durum Çalışması.</title>
+			<year>2014</year>
+			<booktitle>UYMS</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-1221/5_bildiri.pdf</ee>
+			<crossref>conf/uyms/2014</crossref>
+			<url>db/conf/uyms/uyms2014.html#BatiD14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/uyms/CetinD14" mdate="2019-05-28">
+			<author pid="151/2443">Esra Çetin</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Türkiye'de Çevik Yazılım Geliştirme Üzerine Bir İnceleme.</title>
+			<year>2014</year>
+			<booktitle>UYMS</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-1221/2_Bildiri.pdf</ee>
+			<crossref>conf/uyms/2014</crossref>
+			<url>db/conf/uyms/uyms2014.html#CetinD14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/uyms/CoskanD14" mdate="2019-05-28">
+			<author pid="151/2459">Naile Damla Coskan</author>
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<title>Kullanılabilirlik ve Yazılım Yaşam Döngüsü: Türkiye'deki Yazılım Organizasyonlarındaki Durum.</title>
+			<year>2014</year>
+			<booktitle>UYMS</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-1221/6_Bildiri.pdf</ee>
+			<crossref>conf/uyms/2014</crossref>
+			<url>db/conf/uyms/uyms2014.html#CoskanD14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/ets/DurduYC09" mdate="2021-01-07">
+			<author pid="66/7706">Pinar Onay Durdu</author>
+			<author pid="30/4794">Nese Yalabik</author>
+			<author pid="02/4997">Kursat Cagiltay</author>
+			<title>A Distributed Online Curriculum and Courseware Development Model.</title>
+			<pages>230-248</pages>
+			<year>2009</year>
+			<volume>12</volume>
+			<journal>J. Educ. Technol. Soc.</journal>
+			<number>1</number>
+			<ee type="archive oa">http://www.ifets.info/abstract.php?art_id=922</ee>
+			<url>db/journals/ets/ets12.html#DurduYC09</url>
+		</article>
+	</r>
+	<coauthors n="21" nc="3">
+		<co c="0">
+			<na f="a/Akbulut:Orhan" pid="28/2694">Orhan Akbulut</na>
+		</co>
+		<co c="-1">
+			<na f="a/Ali=ccedil=:Emre" pid="174/8694">Emre Aliç</na>
+		</co>
+		<co c="2">
+			<na f="a/Altug:Emrah" pid="224/8860">Emrah Altug</na>
+		</co>
+		<co c="0">
+			<na f="a/Arpaci:Ibrahim" pid="28/9535">Ibrahim Arpaci</na>
+		</co>
+		<co c="2">
+			<na f="a/Aytekin:Fatma_Gozde" pid="224/9052">Fatma Gozde Aytekin</na>
+		</co>
+		<co c="-1">
+			<na f="b/Bati:Baki" pid="151/2543">Baki Bati</na>
+		</co>
+		<co c="0">
+			<na f="b/Bilgin:Burcu" pid="174/8604">Burcu Bilgin</na>
+		</co>
+		<co c="-1">
+			<na f="b/Bozyer:Zafer" pid="145/5555">Zafer Bozyer</na>
+		</co>
+		<co c="1">
+			<na f="c/Cagiltay:Kursat" pid="02/4997">Kursat Cagiltay</na>
+		</co>
+		<co c="-1">
+			<na f="=/=Ccedil=etin:Esra" pid="151/2443">Esra Çetin</na>
+		</co>
+		<co c="-1">
+			<na f="c/Coskan:Naile_Damla" pid="151/2459">Naile Damla Coskan</na>
+		</co>
+		<co c="0">
+			<na f="d/Deniz:Gencay" pid="174/8935">Gencay Deniz</na>
+		</co>
+		<co c="-1">
+			<na f="g/G=uuml=ncan:Damla" pid="287/0234">Damla Güncan</na>
+		</co>
+		<co c="0">
+			<na f="i/Incebacak:Davut" pid="124/4076">Davut Incebacak</na>
+		</co>
+		<co c="0">
+			<na f="k/Kul:Seda" pid="191/1289">Seda Kul</na>
+		</co>
+		<co c="0">
+			<na f="m/Mutlu:Alev" pid="53/10411">Alev Mutlu</na>
+		</co>
+		<co c="-1">
+			<na f="s/Simsek:Serdar" pid="145/5550">Serdar Simsek</na>
+		</co>
+		<co c="0">
+			<na f="t/Turdaliev:Nursultan" pid="174/8657">Nursultan Turdaliev</na>
+		</co>
+		<co c="-1">
+			<na f="t/T=uuml=rkcan:A=_K=uuml=rsad" pid="222/7367">A. Kürsad Türkcan</na>
+		</co>
+		<co c="1">
+			<na f="y/Yalabik:Nese" pid="30/4794">Nese Yalabik</na>
+		</co>
+		<co c="-1">
+			<na f="y/Yerlikaya:Zehra" pid="202/0015">Zehra Yerlikaya</na>
+		</co>
+	</coauthors>
+</dblpperson>

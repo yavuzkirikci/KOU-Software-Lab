@@ -1,0 +1,950 @@
+<dblpperson name="Ahmet Sayar" pid="74/5903" n="47">
+   <person key="homepages/74/5903" mdate="2019-05-30">
+      <author pid="74/5903">Ahmet Sayar</author>
+      <url>https://orcid.org/0000-0002-6335-459X</url>
+      <url>https://www.wikidata.org/entity/Q57422007</url>
+      <url>https://www.researcherid.com/rid/F-6453-2018</url>
+   </person>
+   <r>
+      <article key="journals/concurrency/YurtseverOTES22" mdate="2021-12-25">
+         <author pid="309/0031">M. Mücahit Enes Yurtsever</author>
+         <author pid="308/9680">Muhammet Özcan</author>
+         <author pid="308/9670">Zübeyir Taruz</author>
+         <author orcid="0000-0001-9488-908X" pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Figure search by text in large scale digital document collections.</title>
+         <year>2022</year>
+         <volume>34</volume>
+         <journal>Concurr. Comput. Pract. Exp.</journal>
+         <number>1</number>
+         <ee>https://doi.org/10.1002/cpe.6529</ee>
+         <url>db/journals/concurrency/concurrency34.html#YurtseverOTES22</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/concurrency/BalEKS22" mdate="2022-04-05">
+         <author pid="317/6429">Burak Bal</author>
+         <author pid="317/6625">Tugba Erdem</author>
+         <author pid="191/1289">Seda Kul</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Image-based locating and guiding for unmanned aerial vehicles using scale invariant feature transform, speeded-up robust features, and oriented fast and rotated brief algorithms.</title>
+         <year>2022</year>
+         <volume>34</volume>
+         <journal>Concurr. Comput. Pract. Exp.</journal>
+         <number>9</number>
+         <ee>https://doi.org/10.1002/cpe.6766</ee>
+         <url>db/journals/concurrency/concurrency34.html#BalEKS22</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/access/KulTSS21" mdate="2021-07-13">
+         <author orcid="0000-0002-7481-3560" pid="191/1289">Seda Kul</author>
+         <author pid="221/7685">Isabek Tashiev</author>
+         <author pid="221/7690">Ali Sentas</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Event-Based Microservices With Apache Kafka Streams: A Real-Time Vehicle Detection System Based on Type, Color, and Speed Attributes.</title>
+         <pages>83137-83148</pages>
+         <year>2021</year>
+         <volume>9</volume>
+         <journal>IEEE Access</journal>
+         <ee type="oa">https://doi.org/10.1109/ACCESS.2021.3085736</ee>
+         <url>db/journals/access/access9.html#KulTSS21</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/eswa/OktayYSKKS21" mdate="2021-12-15">
+         <author pid="190/4364">Talha Oktay</author>
+         <author orcid="0000-0002-3015-2131" pid="304/8279">Erdenay Yogurtçuoglu</author>
+         <author orcid="0000-0002-8977-5544" pid="304/7575">Ramazan Nejdet Sarikaya</author>
+         <author orcid="0000-0003-3471-3255" pid="304/7718">Ali Recep Karaca</author>
+         <author orcid="0000-0002-5358-9870" pid="304/8071">Mehmet Firat Kömürcü</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Multimodel anomaly detection on spatio-temporal logistic datastream with open anomaly detection architecture.</title>
+         <pages>115755</pages>
+         <year>2021</year>
+         <volume>186</volume>
+         <journal>Expert Syst. Appl.</journal>
+         <ee>https://doi.org/10.1016/j.eswa.2021.115755</ee>
+         <url>db/journals/eswa/eswa186.html#OktayYSKKS21</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/DenizgezKKS21" mdate="2021-10-07">
+         <author pid="303/3930">Tayyip Mert Denizgez</author>
+         <author pid="303/3350">Orçun Kamiloglu</author>
+         <author pid="191/1289">Seda Kul</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Guiding Visually Impaired People to Find an Object by Using Image to Speech over the Smart Phone Cameras.</title>
+         <pages>1-5</pages>
+         <year>2021</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA52262.2021.9548122</ee>
+         <crossref>conf/inista/2021</crossref>
+         <url>db/conf/inista/inista2021.html#DenizgezKKS21</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/GulmezCKS21" mdate="2021-10-07">
+         <author pid="303/3889">Görkem Gülmez</author>
+         <author pid="303/3771">Kübra Cebbar</author>
+         <author pid="191/1289">Seda Kul</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>A Framework for Using Contactless Technologies in Operating Rooms.</title>
+         <pages>1-6</pages>
+         <year>2021</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA52262.2021.9548346</ee>
+         <crossref>conf/inista/2021</crossref>
+         <url>db/conf/inista/inista2021.html#GulmezCKS21</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/evi/SentasTKKESB20" mdate="2020-04-16">
+         <author pid="221/7690">Ali Sentas</author>
+         <author pid="221/7685">Isabek Tashiev</author>
+         <author pid="221/7691">Fatmanur Küçükayvaz</author>
+         <author orcid="0000-0002-7481-3560" pid="191/1289">Seda Kul</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <author pid="82/5345">Yasar Becerikli</author>
+         <title>Performance evaluation of support vector machine and convolutional neural network algorithms in real-time vehicle type and color classification.</title>
+         <pages>83-91</pages>
+         <year>2020</year>
+         <volume>13</volume>
+         <journal>Evol. Intell.</journal>
+         <number>1</number>
+         <ee>https://doi.org/10.1007/s12065-018-0167-z</ee>
+         <url>db/journals/evi/evi13.html#SentasTKKESB20</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/iajit/EkenKSS18" mdate="2021-04-28">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="211/1730">Abdülkadir Karabas</author>
+         <author pid="211/1756">Hayrunnisa Sari</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>A framework for recognition and animation of chess moves printed on a chess book.</title>
+         <pages>29-36</pages>
+         <year>2018</year>
+         <volume>15</volume>
+         <journal>Int. Arab J. Inf. Technol.</journal>
+         <number>1</number>
+         <ee type="oa" />
+         <url>db/journals/iajit/iajit15.html#EkenKSS18</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/iajit/GulagizEKS18" mdate="2021-04-28">
+         <author pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Idle time estimation for bandwidth-efficient synchronization in replicated distributed file system.</title>
+         <pages>177-185</pages>
+         <year>2018</year>
+         <volume>15</volume>
+         <journal>Int. Arab J. Inf. Technol.</journal>
+         <number>2</number>
+         <ee type="oa" />
+         <url>db/journals/iajit/iajit15.html#GulagizEKS18</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/eidwt/SentasTKKESB18" mdate="2018-06-26">
+         <author pid="221/7690">Ali Sentas</author>
+         <author pid="221/7685">Isabek Tashiev</author>
+         <author pid="221/7691">Fatmanur Küçükayvaz</author>
+         <author pid="191/1289">Seda Kul</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <author pid="82/5345">Yasar Becerikli</author>
+         <title>Performance Evaluation of Support Vector Machine and Convolutional Neural Network Algorithms in Real-Time Vehicle Type Classification.</title>
+         <pages>934-943</pages>
+         <year>2018</year>
+         <booktitle>EIDWT</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-75928-9_86</ee>
+         <crossref>conf/eidwt/2018</crossref>
+         <url>db/conf/eidwt/eidwt2018.html#SentasTKKESB18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/mike/KorkmazEABKS18" mdate="2018-12-18">
+         <author pid="35/2462">Ali Korkmaz</author>
+         <author pid="231/8787">Ferdi Elik</author>
+         <author pid="231/8777">Furkan Aydin</author>
+         <author pid="231/8772">Mertcan Bulut</author>
+         <author pid="191/1289">Seda Kul</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Modeling Trajectory Data as a Directed Graph.</title>
+         <pages>168-176</pages>
+         <year>2018</year>
+         <booktitle>MIKE</booktitle>
+         <ee>https://doi.org/10.1007/978-3-030-05918-7_15</ee>
+         <crossref>conf/mike/2018</crossref>
+         <url>db/conf/mike/mike2018.html#KorkmazEABKS18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/KarsliSSTES18" mdate="2018-08-26">
+         <author pid="225/3271">Munir Karsli</author>
+         <author pid="225/3015">Yusuf Satilmis</author>
+         <author pid="225/3437">Muhammed Sara</author>
+         <author pid="225/3107">Furkan Tufan</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>End-to-end learning model design for steering autonomous vehicle.</title>
+         <pages>1-4</pages>
+         <year>2018</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2018.8404575</ee>
+         <crossref>conf/siu/2018</crossref>
+         <url>db/conf/siu/siu2018.html#KarsliSSTES18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article publtype="informal" key="journals/corr/abs-1808-08521" mdate="2018-09-02">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="225/5363">Eray Aydin</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>DIFET: Distributed Feature Extraction Tool For High Spatial Resolution Remote Sensing Images.</title>
+         <year>2018</year>
+         <volume>abs/1808.08521</volume>
+         <journal>CoRR</journal>
+         <ee type="oa">http://arxiv.org/abs/1808.08521</ee>
+         <url>db/journals/corr/corr1808.html#abs-1808-08521</url>
+      </article>
+   </r>
+   <r>
+      <article publtype="informal" key="journals/corr/abs-1808-08522" mdate="2018-09-02">
+         <author pid="211/1756">Hayrunnisa Sari</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>An Approach For Stitching Satellite Images In A Bigdata Mapreduce Framework.</title>
+         <year>2018</year>
+         <volume>abs/1808.08522</volume>
+         <journal>CoRR</journal>
+         <ee type="oa">http://arxiv.org/abs/1808.08522</ee>
+         <url>db/journals/corr/corr1808.html#abs-1808-08522</url>
+      </article>
+   </r>
+   <r>
+      <article publtype="informal" key="journals/corr/abs-1808-08528" mdate="2018-09-02">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>A MapReduce based Big-data Framework for Object Extraction from Mosaic Satellite Images.</title>
+         <year>2018</year>
+         <volume>abs/1808.08528</volume>
+         <journal>CoRR</journal>
+         <ee type="oa">http://arxiv.org/abs/1808.08528</ee>
+         <url>db/journals/corr/corr1808.html#abs-1808-08528</url>
+      </article>
+   </r>
+   <r>
+      <article publtype="informal" key="journals/corr/abs-1809-00233" mdate="2018-10-05">
+         <author pid="227/3257">Serife Acikalin</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Sleep Stage Classification: Scalability Evaluations of Distributed Approaches.</title>
+         <year>2018</year>
+         <volume>abs/1809.00233</volume>
+         <journal>CoRR</journal>
+         <ee type="oa">http://arxiv.org/abs/1809.00233</ee>
+         <url>db/journals/corr/corr1809.html#abs-1809-00233</url>
+      </article>
+   </r>
+   <r>
+      <article publtype="informal" key="journals/corr/abs-1809-00235" mdate="2018-10-05">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="225/5363">Eray Aydin</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Vectorization of Large Amounts of Raster Satellite Images in a Distributed Architecture Using HIPI.</title>
+         <year>2018</year>
+         <volume>abs/1809.00235</volume>
+         <journal>CoRR</journal>
+         <ee type="oa">http://arxiv.org/abs/1809.00235</ee>
+         <url>db/journals/corr/corr1809.html#abs-1809-00235</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/BakkalESS17" mdate="2018-11-14">
+         <author pid="202/6812">Fuat Bakkal</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="202/7096">Nurullah Samed Savas</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Modeling and querying trajectories using Neo4j spatial and TimeTree for carpool matching.</title>
+         <pages>219-222</pages>
+         <year>2017</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA.2017.8001160</ee>
+         <ee>https://www.wikidata.org/entity/Q57816979</ee>
+         <crossref>conf/inista/2017</crossref>
+         <url>db/conf/inista/inista2017.html#BakkalESS17</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/SavasBES17" mdate="2018-11-14">
+         <author pid="202/7096">Nurullah Samed Savas</author>
+         <author pid="202/6812">Fuat Bakkal</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Evaluation of different algorithms for measuring the similarities of trajectory datasets.</title>
+         <pages>1-4</pages>
+         <year>2017</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2017.7960215</ee>
+         <ee>https://www.wikidata.org/entity/Q57816953</ee>
+         <crossref>conf/siu/2017</crossref>
+         <url>db/conf/siu/siu2017.html#SavasBES17</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/uyms/UysalYES17" mdate="2019-05-28">
+         <author pid="224/8797">Seyfullah Uysal</author>
+         <author pid="08/1563">Emre Yilmaz</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>MAHREC: Mobil Tabanli Harf Cikis Bozukluklarinin Iyilestirilmesi(MAHREC: Mobile Based Improvement of Letter Pronunciation Disorders).</title>
+         <pages>297-303</pages>
+         <year>2017</year>
+         <booktitle>UYMS</booktitle>
+         <ee type="oa">http://ceur-ws.org/Vol-1980/UYMS17_paper_78.pdf</ee>
+         <crossref>conf/uyms/2017</crossref>
+         <url>db/conf/uyms/uyms2017.html#UysalYES17</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icitcs/KulES16" mdate="2018-11-14">
+         <author pid="191/1289">Seda Kul</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Evaluation of Real-Time Performance for BGSLibrary Algorithms: A Case Study on Traffic Surveillance Video.</title>
+         <pages>1-4</pages>
+         <year>2016</year>
+         <booktitle>ICITCS</booktitle>
+         <ee>https://doi.org/10.1109/ICITCS.2016.7740330</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICITCS.2016.7740330</ee>
+         <ee>https://www.wikidata.org/entity/Q57817031</ee>
+         <crossref>conf/icitcs/2016</crossref>
+         <url>db/conf/icitcs/icitcs2016.html#KulES16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/inns/OktayS16" mdate="2018-11-14">
+         <author pid="190/4364">Talha Oktay</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Analyzing Big Security Logs in Cluster with Apache Spark.</title>
+         <pages>131-138</pages>
+         <year>2016</year>
+         <booktitle>INNS Conference on Big Data</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-47898-2_14</ee>
+         <ee>https://www.wikidata.org/entity/Q57816915</ee>
+         <crossref>conf/inns/2016</crossref>
+         <url>db/conf/inns/inns2016.html#OktayS16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/inns/KoseES16" mdate="2018-11-14">
+         <author pid="190/4425">Burak Köse</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Playlist Generation via Vector Representation of Songs.</title>
+         <pages>179-185</pages>
+         <year>2016</year>
+         <booktitle>INNS Conference on Big Data</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-47898-2_19</ee>
+         <ee>https://www.wikidata.org/entity/Q57816994</ee>
+         <crossref>conf/inns/2016</crossref>
+         <url>db/conf/inns/inns2016.html#KoseES16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/monami/EkenGSKKI16" mdate="2018-11-14">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author pid="144/4333">Umut Kocasaraç</author>
+         <author pid="144/4531">Zana Ilhan</author>
+         <title>A Novel Signaling Protocol (ARCSPXP): Case Study on Synchronization of Educational Data.</title>
+         <pages>31-43</pages>
+         <year>2016</year>
+         <booktitle>MONAMI</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-52712-3_3</ee>
+         <ee>https://www.wikidata.org/entity/Q57816898</ee>
+         <crossref>conf/monami/2016</crossref>
+         <url>db/conf/monami/monami2016.html#EkenGSKKI16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/uyms/AkkoyunluES16" mdate="2019-05-28">
+         <author pid="194/5023">Yilmaz Yunus Akkoyunlu</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>HIPI ile Dagitik Goruntu Isleme Catisi: Yuz Bolgelerine Ait Biometrileri Saptama Performansinin Incelenmesi.</title>
+         <pages>426-431</pages>
+         <year>2016</year>
+         <booktitle>UYMS</booktitle>
+         <ee type="oa">http://ceur-ws.org/Vol-1721/UYMS16_paper_93.pdf</ee>
+         <crossref>conf/uyms/2016</crossref>
+         <url>db/conf/uyms/uyms2016.html#AkkoyunluES16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/uyms/YavuzES16" mdate="2019-05-28">
+         <author pid="194/5054">Ahmet Yavuz</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Akademik Calismalara Hakem Atamasi icin Buyuk Veri Altyapisi.</title>
+         <pages>544-549</pages>
+         <year>2016</year>
+         <booktitle>UYMS</booktitle>
+         <ee type="oa">http://ceur-ws.org/Vol-1721/UYMS16_paper_12.pdf</ee>
+         <crossref>conf/uyms/2016</crossref>
+         <url>db/conf/uyms/uyms2016.html#YavuzES16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/ijcomsys/Sayar15" mdate="2020-07-30">
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Ant-based interactive workflow management: a case study on RMI.</title>
+         <pages>1329-1339</pages>
+         <year>2015</year>
+         <volume>28</volume>
+         <journal>Int. J. Commun. Syst.</journal>
+         <number>7</number>
+         <ee>https://doi.org/10.1002/dac.2766</ee>
+         <ee>https://www.wikidata.org/entity/Q57817072</ee>
+         <url>db/journals/ijcomsys/ijcomsys28.html#Sayar15</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/jzusc/SayarEO15" mdate="2020-03-05">
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author orcid="0000-0001-9488-908X" pid="121/2902">Süleyman Eken</author>
+         <author pid="157/9832">Okan Öztürk</author>
+         <title>Kd-tree and quad-tree decompositions for declustering of 2D range queries over uncertain space.</title>
+         <pages>98-108</pages>
+         <year>2015</year>
+         <volume>16</volume>
+         <journal>Frontiers Inf. Technol. Electron. Eng.</journal>
+         <number>2</number>
+         <ee>https://doi.org/10.1631/FITEE.1400165</ee>
+         <ee>https://www.wikidata.org/entity/Q57817049</ee>
+         <url>db/journals/jzusc/jzusc16.html#SayarEO15</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/aiccsa/KizgindereES15" mdate="2019-02-05">
+         <author pid="183/2053">Umut Kizgindere</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>MapReduce based scalable range query architecture for big spatial data.</title>
+         <pages>1-4</pages>
+         <year>2015</year>
+         <booktitle>AICCSA</booktitle>
+         <ee>https://doi.org/10.1109/AICCSA.2015.7507268</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/AICCSA.2015.7507268</ee>
+         <ee>https://www.wikidata.org/entity/Q57817042</ee>
+         <crossref>conf/aiccsa/2015</crossref>
+         <url>db/conf/aiccsa/aiccsa2015.html#KizgindereES15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/KulES15" mdate="2020-05-30">
+         <author pid="191/1289">Seda Kul</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Service oriented warning system for detection of abondened object in video surveillance.</title>
+         <pages>911-914</pages>
+         <year>2015</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2015.7129978</ee>
+         <ee>https://www.wikidata.org/entity/Q57817094</ee>
+         <crossref>conf/siu/2015</crossref>
+         <url>db/conf/siu/siu2015.html#KulES15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/GulagizEKS15" mdate="2020-10-25">
+         <author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Estimation of idle time for synchronization: A case study on Fatih project.</title>
+         <pages>1158-1161</pages>
+         <year>2015</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2015.7130041</ee>
+         <ee>https://www.wikidata.org/entity/Q57817083</ee>
+         <crossref>conf/siu/2015</crossref>
+         <url>db/conf/siu/siu2015.html#GulagizEKS15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/ijccc/DemirS14" mdate="2021-03-20">
+         <author pid="158/0519">Ilginç Demir</author>
+         <author pid="74/5903">Ahmet Sayar</author>
+         <title>Hadoop Optimization for Massive Image Processing: Case Study Face Detection.</title>
+         <pages>664-671</pages>
+         <year>2014</year>
+         <volume>9</volume>
+         <journal>Int. J. Comput. Commun. Control</journal>
+         <number>6</number>
+         <ee type="oa">https://doi.org/10.15837/ijccc.2014.6.285</ee>
+         <url>db/journals/ijccc/ijccc9.html#DemirS14</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/eann/SayarEM14" mdate="2020-02-14">
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="151/2444">Ümit Mert</author>
+         <title>Tiling of Satellite Images to Capture an Island Object.</title>
+         <pages>195-204</pages>
+         <year>2014</year>
+         <booktitle>EANN</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-11071-4_19</ee>
+         <ee>https://www.wikidata.org/entity/Q57817136</ee>
+         <crossref>conf/eann/2014</crossref>
+         <url>db/conf/eann/eann2014.html#SayarEM14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/EkenKSK14" mdate="2020-10-25">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <title>Tracking a single node's availability for communication by means of observing local system resources.</title>
+         <pages>41-45</pages>
+         <year>2014</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA.2014.6873595</ee>
+         <ee>https://www.wikidata.org/entity/Q57817146</ee>
+         <crossref>conf/inista/2014</crossref>
+         <url>db/conf/inista/inista2014.html#EkenKSK14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/EkenS14" mdate="2018-11-14">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>A smart bus tracking system based on location-aware services and QR codes.</title>
+         <pages>299-303</pages>
+         <year>2014</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA.2014.6873634</ee>
+         <ee>https://www.wikidata.org/entity/Q57817114</ee>
+         <crossref>conf/inista/2014</crossref>
+         <url>db/conf/inista/inista2014.html#EkenS14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/ncca/KayaEIKSKS14" mdate="2020-10-25">
+         <author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author pid="121/2902">Süleyman Eken</author>
+         <author pid="144/4531">Zana Ilhan</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="144/4333">Umut Kocasaraç</author>
+         <author pid="74/2480">Suhap Sahin</author>
+         <title>A Comparative Study of Signaling Protocols for Data Management and Synchronization in Fatih Project with School Level Cloud Proxy Server Deployment.</title>
+         <pages>133-136</pages>
+         <year>2014</year>
+         <booktitle>NCCA</booktitle>
+         <ee>https://doi.org/10.1109/NCCA.2014.29</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/NCCA.2014.29</ee>
+         <ee>https://www.wikidata.org/entity/Q57817104</ee>
+         <crossref>conf/ncca/2014</crossref>
+         <url>db/conf/ncca/ncca2014.html#KayaEIKSKS14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/wicon/EkenKSKS14" mdate="2020-10-25">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="86/3057">Adnan Kavak</author>
+         <author pid="74/2480">Suhap Sahin</author>
+         <title>A Method for Localization of Computational Node and Proxy Server in Educational Data Synchronization.</title>
+         <pages>180-190</pages>
+         <year>2014</year>
+         <booktitle>WICON</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-18802-7_26</ee>
+         <ee>https://www.wikidata.org/entity/Q57817056</ee>
+         <crossref>conf/wicon/2014</crossref>
+         <url>db/conf/wicon/wicon2014.html#EkenKSKS14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/IEEEares/SayarP13" mdate="2018-11-14">
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author orcid="0000-0002-9582-5712" pid="72/883">Marlon E. Pierce</author>
+         <title>Chaining Data and Visualization Web Services for Decision Making in Information Systems.</title>
+         <pages>44-53</pages>
+         <year>2013</year>
+         <booktitle>CD-ARES</booktitle>
+         <ee type="oa">https://doi.org/10.1007/978-3-642-40511-2_4</ee>
+         <ee>https://www.wikidata.org/entity/Q57817183</ee>
+         <crossref>conf/IEEEares/2013cd</crossref>
+         <url>db/conf/IEEEares/cd-ares2013.html#SayarP13</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/compsac/EkenS12" mdate="2018-11-14">
+         <author pid="121/2902">Süleyman Eken</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Performance Evaluations of Vector-Raster Satellite Image Transfers through Web Services.</title>
+         <pages>346-347</pages>
+         <year>2012</year>
+         <booktitle>COMPSAC</booktitle>
+         <ee>https://doi.org/10.1109/COMPSAC.2012.48</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/COMPSAC.2012.48</ee>
+         <ee>https://www.wikidata.org/entity/Q57817206</ee>
+         <crossref>conf/compsac/2012</crossref>
+         <url>db/conf/compsac/compsac2012.html#EkenS12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/DemirS12" mdate="2021-03-20">
+         <author pid="158/0519">Ilginç Demir</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>Hadoop plugin for distributed and parallel image processing.</title>
+         <pages>1-4</pages>
+         <year>2012</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2012.6204572</ee>
+         <ee>https://www.wikidata.org/entity/Q57817199</ee>
+         <crossref>conf/siu/2012</crossref>
+         <url>db/conf/siu/siu2012.html#DemirS12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/wise/Sayar12" mdate="2018-11-14">
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>A Service Oriented Framework for Animating Big Spatiotemporal Datasets.</title>
+         <pages>238-250</pages>
+         <year>2012</year>
+         <booktitle>WISE Workshops</booktitle>
+         <ee>https://doi.org/10.1007/978-3-642-38333-5_25</ee>
+         <ee>https://www.wikidata.org/entity/Q57817154</ee>
+         <crossref>conf/wise/2012-w</crossref>
+         <url>db/conf/wise/wise2012w.html#Sayar12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/iscis/SayarV09" mdate="2018-11-14">
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="y/FatosTYarmanVural">Fatos Tünay Yarman Vural</author>
+         <title>Image annotation with semi-supervised clustering.</title>
+         <pages>12-17</pages>
+         <year>2009</year>
+         <booktitle>ISCIS</booktitle>
+         <ee>https://doi.org/10.1109/ISCIS.2009.5291929</ee>
+         <ee>https://www.wikidata.org/entity/Q57817230</ee>
+         <crossref>conf/iscis/2009</crossref>
+         <url>db/conf/iscis/iscis2009.html#SayarV09</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/concurrency/AydinSGAFKBP08" mdate="2021-04-09">
+         <author pid="54/1971">Galip Aydin</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="19/2937">Harshawardhan Gadgil</author>
+         <author orcid="0000-0001-7908-5067" pid="63/4147">Mehmet S. Aktas</author>
+         <author pid="f/GeoffreyFox">Geoffrey C. Fox</author>
+         <author pid="24/3301">Sung Hoon Ko</author>
+         <author orcid="0000-0002-4872-5698" pid="40/3498">Hasan Bulut</author>
+         <author orcid="0000-0002-9582-5712" pid="72/883">Marlon E. Pierce</author>
+         <title>Building and applying geographical information system Grids.</title>
+         <pages>1653-1695</pages>
+         <year>2008</year>
+         <volume>20</volume>
+         <journal>Concurr. Comput. Pract. Exp.</journal>
+         <number>14</number>
+         <ee>https://doi.org/10.1002/cpe.1312</ee>
+         <ee>https://www.wikidata.org/entity/Q57817235</ee>
+         <url>db/journals/concurrency/concurrency20.html#AydinSGAFKBP08</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/aict/SayarPF06" mdate="2018-11-14">
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author orcid="0000-0002-9582-5712" pid="72/883">Marlon E. Pierce</author>
+         <author pid="f/GeoffreyFox">Geoffrey C. Fox</author>
+         <title>Integrating AJAX Approach into GIS Visualization Web Services.</title>
+         <pages>169</pages>
+         <year>2006</year>
+         <crossref>conf/aict/2006</crossref>
+         <booktitle>AICT/ICIW</booktitle>
+         <ee>https://doi.org/10.1109/AICT-ICIW.2006.114</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/AICT-ICIW.2006.114</ee>
+         <ee>https://www.wikidata.org/entity/Q57817284</ee>
+         <url>db/conf/aict/aict2006.html#SayarPF06</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/grid/AydinAFGPS05" mdate="2019-12-27">
+         <author pid="54/1971">Galip Aydin</author>
+         <author orcid="0000-0001-7908-5067" pid="63/4147">Mehmet S. Aktas</author>
+         <author pid="f/GeoffreyFox">Geoffrey C. Fox</author>
+         <author pid="19/2937">Harshawardhan Gadgil</author>
+         <author orcid="0000-0002-9582-5712" pid="72/883">Marlon E. Pierce</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <title>SERVOGrid complexity computational environments (CCE) integrated performance analysis.</title>
+         <pages>256-261</pages>
+         <year>2005</year>
+         <crossref>conf/grid/2005</crossref>
+         <booktitle>GRID</booktitle>
+         <ee>https://doi.org/10.1109/GRID.2005.1542750</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/GRID.2005.1542750</ee>
+         <ee>http://dl.acm.org/citation.cfm?id=1253504</ee>
+         <ee>https://www.wikidata.org/entity/Q57817296</ee>
+         <url>db/conf/grid/grid2005.html#AydinAFGPS05</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/ppam/FoxAABGOPPSZ05" mdate="2021-04-09">
+         <author pid="f/GeoffreyFox">Geoffrey C. Fox</author>
+         <author orcid="0000-0001-7908-5067" pid="63/4147">Mehmet S. Aktas</author>
+         <author pid="54/1971">Galip Aydin</author>
+         <author orcid="0000-0002-4872-5698" pid="40/3498">Hasan Bulut</author>
+         <author pid="19/2937">Harshawardhan Gadgil</author>
+         <author pid="65/912">Sangyoon Oh</author>
+         <author pid="p/ShrideepPallickara">Shrideep Pallickara</author>
+         <author orcid="0000-0002-9582-5712" pid="72/883">Marlon E. Pierce</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="96/523">Gang Zhai</author>
+         <title>Grids for Real Time Data Applications.</title>
+         <pages>320-332</pages>
+         <year>2005</year>
+         <crossref>conf/ppam/2005</crossref>
+         <booktitle>PPAM</booktitle>
+         <ee>https://doi.org/10.1007/11752578_39</ee>
+         <ee>https://www.wikidata.org/entity/Q57817275</ee>
+         <url>db/conf/ppam/ppam2005.html#FoxAABGOPPSZ05</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/skg/FoxAADGGPPPORSS05" mdate="2019-12-27">
+         <author pid="f/GeoffreyFox">Geoffrey C. Fox</author>
+         <author orcid="0000-0001-7908-5067" pid="63/4147">Mehmet S. Aktas</author>
+         <author pid="54/1971">Galip Aydin</author>
+         <author orcid="0000-0001-6843-8373" pid="65/6975">Andrea Donnellan</author>
+         <author pid="19/2937">Harshawardhan Gadgil</author>
+         <author pid="12/1621">Robert Granat</author>
+         <author pid="p/ShrideepPallickara">Shrideep Pallickara</author>
+         <author pid="93/5226">Jay Parker</author>
+         <author orcid="0000-0002-9582-5712" pid="72/883">Marlon E. Pierce</author>
+         <author pid="65/912">Sangyoon Oh</author>
+         <author pid="42/2739">John B. Rundle</author>
+         <author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+         <author pid="46/2233">Michael Scharber</author>
+         <title>Building Sensor Filter Grids: Information Architecture for the Data Deluge.</title>
+         <pages>2</pages>
+         <year>2005</year>
+         <crossref>conf/skg/2005</crossref>
+         <booktitle>SKG</booktitle>
+         <ee>https://doi.org/10.1109/SKG.2005.48</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/SKG.2005.48</ee>
+         <ee>https://www.wikidata.org/entity/Q57817268</ee>
+         <url>db/conf/skg/skg2005.html#FoxAADGGPPPORSS05</url>
+      </inproceedings>
+   </r>
+   <coauthors n="64" nc="3">
+      <co c="0">
+         <na f="a/Acikalin:Serife" pid="227/3257">Serife Acikalin</na>
+      </co>
+      <co c="0">
+         <na f="a/Akkoyunlu:Yilmaz_Yunus" pid="194/5023">Yilmaz Yunus Akkoyunlu</na>
+      </co>
+      <co c="1">
+         <na f="a/Aktas:Mehmet_S=" pid="63/4147">Mehmet S. Aktas</na>
+      </co>
+      <co c="0">
+         <na f="a/Aydin:Eray" pid="225/5363">Eray Aydin</na>
+      </co>
+      <co c="0">
+         <na f="a/Aydin:Furkan" pid="231/8777">Furkan Aydin</na>
+      </co>
+      <co c="1">
+         <na f="a/Aydin:Galip" pid="54/1971">Galip Aydin</na>
+      </co>
+      <co c="0">
+         <na f="b/Bakkal:Fuat" pid="202/6812">Fuat Bakkal</na>
+      </co>
+      <co c="0">
+         <na f="b/Bal:Burak" pid="317/6429">Burak Bal</na>
+      </co>
+      <co c="0">
+         <na f="b/Becerikli:Yasar" pid="82/5345">Yasar Becerikli</na>
+      </co>
+      <co c="1">
+         <na f="b/Bulut:Hasan" pid="40/3498">Hasan Bulut</na>
+      </co>
+      <co c="0">
+         <na f="b/Bulut:Mertcan" pid="231/8772">Mertcan Bulut</na>
+      </co>
+      <co c="0">
+         <na f="c/Cebbar:K=uuml=bra" pid="303/3771">Kübra Cebbar</na>
+      </co>
+      <co c="-1">
+         <na f="d/Demir:Ilgin=ccedil=" pid="158/0519">Ilginç Demir</na>
+      </co>
+      <co c="0">
+         <na f="d/Denizgez:Tayyip_Mert" pid="303/3930">Tayyip Mert Denizgez</na>
+      </co>
+      <co c="1">
+         <na f="d/Donnellan:Andrea" pid="65/6975">Andrea Donnellan</na>
+      </co>
+      <co c="0">
+         <na f="e/Eken:S=uuml=leyman" pid="121/2902">Süleyman Eken</na>
+      </co>
+      <co c="0">
+         <na f="e/Elik:Ferdi" pid="231/8787">Ferdi Elik</na>
+      </co>
+      <co c="0">
+         <na f="e/Erdem:Tugba" pid="317/6625">Tugba Erdem</na>
+      </co>
+      <co c="1">
+         <na f="f/Fox:Geoffrey_C=" pid="f/GeoffreyFox">Geoffrey C. Fox</na>
+      </co>
+      <co c="1">
+         <na f="g/Gadgil:Harshawardhan" pid="19/2937">Harshawardhan Gadgil</na>
+      </co>
+      <co c="1" n="2">
+         <na f="g/Granat:Robert_A=" pid="12/1621">Robert A. Granat</na>
+         <na>Robert Granat</na>
+      </co>
+      <co c="0">
+         <na f="g/G=uuml=lagiz:Fidan_Kaya" pid="144/4317">Fidan Kaya Gülagiz</na>
+      </co>
+      <co c="0">
+         <na f="g/G=uuml=lmez:G=ouml=rkem" pid="303/3889">Görkem Gülmez</na>
+      </co>
+      <co c="0">
+         <na f="i/Ilhan:Zana" pid="144/4531">Zana Ilhan</na>
+      </co>
+      <co c="0">
+         <na f="k/Kamiloglu:Or=ccedil=un" pid="303/3350">Orçun Kamiloglu</na>
+      </co>
+      <co c="0">
+         <na f="k/Karabas:Abd=uuml=lkadir" pid="211/1730">Abdülkadir Karabas</na>
+      </co>
+      <co c="2">
+         <na f="k/Karaca:Ali_Recep" pid="304/7718">Ali Recep Karaca</na>
+      </co>
+      <co c="0">
+         <na f="k/Karsli:Munir" pid="225/3271">Munir Karsli</na>
+      </co>
+      <co c="0">
+         <na f="k/Kavak:Adnan" pid="86/3057">Adnan Kavak</na>
+      </co>
+      <co c="0">
+         <na f="k/Kizgindere:Umut" pid="183/2053">Umut Kizgindere</na>
+      </co>
+      <co c="1">
+         <na f="k/Ko:Sung_Hoon" pid="24/3301">Sung Hoon Ko</na>
+      </co>
+      <co c="0">
+         <na f="k/Kocasara=ccedil=:Umut" pid="144/4333">Umut Kocasaraç</na>
+      </co>
+      <co c="2">
+         <na f="k/K=ouml=m=uuml=rc=uuml=:Mehmet_Firat" pid="304/8071">Mehmet Firat Kömürcü</na>
+      </co>
+      <co c="0">
+         <na f="k/Korkmaz:Ali" pid="35/2462">Ali Korkmaz</na>
+      </co>
+      <co c="0">
+         <na f="k/K=ouml=se:Burak" pid="190/4425">Burak Köse</na>
+      </co>
+      <co c="0">
+         <na f="k/K=uuml==ccedil==uuml=kayvaz:Fatmanur" pid="221/7691">Fatmanur Küçükayvaz</na>
+      </co>
+      <co c="0">
+         <na f="k/Kul:Seda" pid="191/1289">Seda Kul</na>
+      </co>
+      <co c="0">
+         <na f="m/Mert:=Uuml=mit" pid="151/2444">Ümit Mert</na>
+      </co>
+      <co c="1">
+         <na f="o/Oh:Sangyoon" pid="65/912">Sangyoon Oh</na>
+      </co>
+      <co c="2">
+         <na f="o/Oktay:Talha" pid="190/4364">Talha Oktay</na>
+      </co>
+      <co c="0">
+         <na f="=/=Ouml=zcan:Muhammet" pid="308/9680">Muhammet Özcan</na>
+      </co>
+      <co c="0">
+         <na f="=/=Ouml=zt=uuml=rk:Okan" pid="157/9832">Okan Öztürk</na>
+      </co>
+      <co c="1">
+         <na f="p/Pallickara:Shrideep" pid="p/ShrideepPallickara">Shrideep Pallickara</na>
+      </co>
+      <co c="1">
+         <na f="p/Parker:Jay" pid="93/5226">Jay Parker</na>
+      </co>
+      <co c="1">
+         <na f="p/Pierce:Marlon_E=" pid="72/883">Marlon E. Pierce</na>
+      </co>
+      <co c="1">
+         <na f="r/Rundle:John_B=" pid="42/2739">John B. Rundle</na>
+      </co>
+      <co c="0">
+         <na f="s/Sahin:Suhap" pid="74/2480">Suhap Sahin</na>
+      </co>
+      <co c="0">
+         <na f="s/Sara:Muhammed" pid="225/3437">Muhammed Sara</na>
+      </co>
+      <co c="0">
+         <na f="s/Sari:Hayrunnisa" pid="211/1756">Hayrunnisa Sari</na>
+      </co>
+      <co c="2">
+         <na f="s/Sarikaya:Ramazan_Nejdet" pid="304/7575">Ramazan Nejdet Sarikaya</na>
+      </co>
+      <co c="0">
+         <na f="s/Satilmis:Yusuf" pid="225/3015">Yusuf Satilmis</na>
+      </co>
+      <co c="0">
+         <na f="s/Savas:Nurullah_Samed" pid="202/7096">Nurullah Samed Savas</na>
+      </co>
+      <co c="1">
+         <na f="s/Scharber:Michael" pid="46/2233">Michael Scharber</na>
+      </co>
+      <co c="0">
+         <na f="s/Sentas:Ali" pid="221/7690">Ali Sentas</na>
+      </co>
+      <co c="0">
+         <na f="t/Taruz:Z=uuml=beyir" pid="308/9670">Zübeyir Taruz</na>
+      </co>
+      <co c="0">
+         <na f="t/Tashiev:Isabek" pid="221/7685">Isabek Tashiev</na>
+      </co>
+      <co c="0">
+         <na f="t/Tufan:Furkan" pid="225/3107">Furkan Tufan</na>
+      </co>
+      <co c="0">
+         <na f="u/Uysal:Seyfullah" pid="224/8797">Seyfullah Uysal</na>
+      </co>
+      <co c="-1" n="2">
+         <na f="y/Yarman=Vural:Fatos_T=" pid="y/FatosTYarmanVural">Fatos T. Yarman-Vural</na>
+         <na>Fatos Tünay Yarman Vural</na>
+      </co>
+      <co c="0">
+         <na f="y/Yavuz:Ahmet" pid="194/5054">Ahmet Yavuz</na>
+      </co>
+      <co c="0">
+         <na f="y/Yilmaz:Emre" pid="08/1563">Emre Yilmaz</na>
+      </co>
+      <co c="2">
+         <na f="y/Yogurt=ccedil=uoglu:Erdenay" pid="304/8279">Erdenay Yogurtçuoglu</na>
+      </co>
+      <co c="0">
+         <na f="y/Yurtsever:M=_M=uuml=cahit_Enes" pid="309/0031">M. Mücahit Enes Yurtsever</na>
+      </co>
+      <co c="1">
+         <na f="z/Zhai:Gang" pid="96/523">Gang Zhai</na>
+      </co>
+   </coauthors>
+</dblpperson>

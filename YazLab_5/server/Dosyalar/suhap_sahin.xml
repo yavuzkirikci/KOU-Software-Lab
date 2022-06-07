@@ -1,0 +1,338 @@
+<dblpperson name="Suhap Sahin" pid="74/2480" n="17">
+	<person key="homepages/74/2480" mdate="2016-01-25">
+		<author pid="74/2480">Suhap Sahin</author>
+		<author pid="74/2480">Sühap Sahin</author>
+	</person>
+	<r>
+		<article key="journals/access/SahinOK18" mdate="2018-07-04">
+			<author orcid="0000-0003-1340-8972" pid="74/2480">Suhap Sahin</author>
+			<author orcid="0000-0002-7146-203X" pid="219/7923">Hikmetcan Ozcan</author>
+			<author orcid="0000-0002-2621-634X" pid="21/4523">Kerem Kucuk</author>
+			<title>Smarttag: An Indoor Positioning System Based on Smart Transmit Power Scheme Using Active Tags.</title>
+			<pages>23500-23510</pages>
+			<year>2018</year>
+			<volume>6</volume>
+			<journal>IEEE Access</journal>
+			<ee type="oa">https://doi.org/10.1109/ACCESS.2018.2824538</ee>
+			<url>db/journals/access/access6.html#SahinOK18</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/jcsc/SahinC18" mdate="2020-08-25">
+			<author pid="74/2480">Suhap Sahin</author>
+			<author pid="23/9404">Mehmet Ali Çavuslu</author>
+			<title>FPGA Implementation of Wavelet Neural Network Training with PSO/iPSO.</title>
+			<pages>1850098:1-1850098:15</pages>
+			<year>2018</year>
+			<volume>27</volume>
+			<journal>J. Circuits Syst. Comput.</journal>
+			<number>6</number>
+			<ee>https://doi.org/10.1142/S0218126618500986</ee>
+			<url>db/journals/jcsc/jcsc27.html#SahinC18</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/jei/SahinI18" mdate="2021-10-14">
+			<author pid="74/2480">Suhap Sahin</author>
+			<author orcid="0000-0002-0570-2250" pid="218/2929">Sümeyya Ilkin</author>
+			<title>Flexible and efficient mobile optical mark recognition.</title>
+			<pages>033007</pages>
+			<year>2018</year>
+			<volume>27</volume>
+			<journal>J. Electronic Imaging</journal>
+			<number>03</number>
+			<ee>https://doi.org/10.1117/1.JEI.27.3.033007</ee>
+			<url>db/journals/jei/jei27.html#SahinI18</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/AltuncuKCS18" mdate="2020-10-25">
+			<author orcid="0000-0002-2948-3937" pid="225/2978">Mehmet Ali Altuncu</author>
+			<author pid="225/3405">Mehmet Muzaffer Kosten</author>
+			<author pid="225/3300">Metaet Ali Çavuslu</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<title>FPGA-based implementation of basic image processing applications as low-cost IP core.</title>
+			<pages>1-4</pages>
+			<year>2018</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2018.8404175</ee>
+			<crossref>conf/siu/2018</crossref>
+			<url>db/conf/siu/siu2018.html#AltuncuKCS18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/AltuncuTCS18" mdate="2018-08-26">
+			<author pid="225/2978">Mehmet Ali Altuncu</author>
+			<author pid="225/3311">Bahadir Turkoglu</author>
+			<author pid="23/9404">Mehmet Ali Çavuslu</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<title>Implementation of K-means algorithm on FGGA.</title>
+			<pages>1-4</pages>
+			<year>2018</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2018.8404176</ee>
+			<crossref>conf/siu/2018</crossref>
+			<url>db/conf/siu/siu2018.html#AltuncuTCS18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/worldcist/IlkinGHS18" mdate="2021-10-14">
+			<author orcid="0000-0002-0570-2250" pid="218/2929">Sümeyya Ilkin</author>
+			<author pid="144/4317">Fidan Kaya Gülagiz</author>
+			<author pid="218/2943">Fatma Selin Hangisi</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<title>Computer Aided Wound Area Detection System for Dermatological Images.</title>
+			<pages>820-830</pages>
+			<year>2018</year>
+			<booktitle>WorldCIST (2)</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-77712-2_77</ee>
+			<crossref>conf/worldcist/2018-2</crossref>
+			<url>db/conf/worldcist/worldcist2018-2.html#IlkinGHS18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/lightsec/BaysalS15" mdate="2017-05-23">
+			<author pid="78/7604">Adnan Baysal</author>
+			<author pid="74/2480">Sühap Sahin</author>
+			<title>RoadRunneR: A Small and Fast Bitslice Block Cipher for Low Cost 8-Bit Processors.</title>
+			<pages>58-76</pages>
+			<year>2015</year>
+			<booktitle>LightSec</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-29078-2_4</ee>
+			<crossref>conf/lightsec/2015</crossref>
+			<url>db/conf/lightsec/lightsec2015.html#BaysalS15</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/MentesogluKYTSO15" mdate="2020-09-05">
+			<author pid="258/0040">Mustafa Mentesoglu</author>
+			<author pid="86/3057">Adnan Kavak</author>
+			<author pid="57/2641">Mehmet Yakut</author>
+			<author pid="127/4793">Ali Tangel</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<author orcid="0000-0002-7146-203X" pid="219/7923">Hikmetcan Ozcan</author>
+			<title>Design and implementation of a communication protocol for mobile device controlled smart home management system.</title>
+			<pages>1370-1373</pages>
+			<year>2015</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2015.7130096</ee>
+			<crossref>conf/siu/2015</crossref>
+			<url>db/conf/siu/siu2015.html#MentesogluKYTSO15</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/OzcanSMP15" mdate="2020-09-05">
+			<author orcid="0000-0002-7146-203X" pid="219/7923">Hikmetcan Ozcan</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<author pid="258/0040">Mustafa Mentesoglu</author>
+			<author pid="257/9923">Fatih Pir</author>
+			<title>Indoor reduction of noise in RF signal with Kalman Filter.</title>
+			<pages>2013-2016</pages>
+			<year>2015</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2015.7130260</ee>
+			<crossref>conf/siu/2015</crossref>
+			<url>db/conf/siu/siu2015.html#OzcanSMP15</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article publtype="informal" key="journals/iacr/BaysalS15" mdate="2020-05-11">
+			<author pid="78/7604">Adnan Baysal</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<title>RoadRunneR: A Small And Fast Bitslice Block Cipher For Low Cost 8-bit Processors.</title>
+			<pages>906</pages>
+			<year>2015</year>
+			<volume>2015</volume>
+			<journal>IACR Cryptol. ePrint Arch.</journal>
+			<ee type="oa">http://eprint.iacr.org/2015/906</ee>
+			<url>db/journals/iacr/iacr2015.html#BaysalS15</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/ncca/KayaEIKSKS14" mdate="2020-10-25">
+			<author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+			<author pid="121/2902">Süleyman Eken</author>
+			<author pid="144/4531">Zana Ilhan</author>
+			<author pid="86/3057">Adnan Kavak</author>
+			<author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+			<author pid="144/4333">Umut Kocasaraç</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<title>A Comparative Study of Signaling Protocols for Data Management and Synchronization in Fatih Project with School Level Cloud Proxy Server Deployment.</title>
+			<pages>133-136</pages>
+			<year>2014</year>
+			<booktitle>NCCA</booktitle>
+			<ee>https://doi.org/10.1109/NCCA.2014.29</ee>
+			<ee>http://doi.ieeecomputersociety.org/10.1109/NCCA.2014.29</ee>
+			<ee>https://www.wikidata.org/entity/Q57817104</ee>
+			<crossref>conf/ncca/2014</crossref>
+			<url>db/conf/ncca/ncca2014.html#KayaEIKSKS14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/wicon/EkenKSKS14" mdate="2020-10-25">
+			<author pid="121/2902">Süleyman Eken</author>
+			<author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+			<author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+			<author pid="86/3057">Adnan Kavak</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<title>A Method for Localization of Computational Node and Proxy Server in Educational Data Synchronization.</title>
+			<pages>180-190</pages>
+			<year>2014</year>
+			<booktitle>WICON</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-18802-7_26</ee>
+			<ee>https://www.wikidata.org/entity/Q57817056</ee>
+			<crossref>conf/wicon/2014</crossref>
+			<url>db/conf/wicon/wicon2014.html#EkenKSKS14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/siu/SahinKC13" mdate="2017-05-24">
+			<author pid="74/2480">Suhap Sahin</author>
+			<author pid="86/3057">Adnan Kavak</author>
+			<author pid="23/9404">Mehmet Ali Çavuslu</author>
+			<title>Comparison of number formats on FPGA-based OFDM modem architecture.</title>
+			<pages>1-4</pages>
+			<year>2013</year>
+			<booktitle>SIU</booktitle>
+			<ee>https://doi.org/10.1109/SIU.2013.6531480</ee>
+			<crossref>conf/siu/2013</crossref>
+			<url>db/conf/siu/siu2013.html#SahinKC13</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/nca/CavusluKSY11" mdate="2020-09-10">
+			<author pid="23/9404">Mehmet Ali Çavuslu</author>
+			<author orcid="0000-0003-0569-098X" pid="11/6801">Cihan Karakuzu</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<author pid="57/2641">Mehmet Yakut</author>
+			<title>Neural network training based on FPGA with floating point number format and it's performance.</title>
+			<pages>195-202</pages>
+			<year>2011</year>
+			<volume>20</volume>
+			<journal>Neural Comput. Appl.</journal>
+			<number>2</number>
+			<ee>https://doi.org/10.1007/s00521-010-0423-3</ee>
+			<url>db/journals/nca/nca20.html#CavusluKSY11</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/wpc/DikmeseKKST11" mdate="2020-08-20">
+			<author orcid="0000-0002-0454-0050" pid="13/10351">Sener Dikmese</author>
+			<author pid="86/3057">Adnan Kavak</author>
+			<author pid="21/4523">Kerem Kucuk</author>
+			<author pid="74/2480">Suhap Sahin</author>
+			<author pid="127/4793">Ali Tangel</author>
+			<title>FPGA Based Implementation and Comparison of Beamformers for CDMA2000.</title>
+			<pages>233-253</pages>
+			<year>2011</year>
+			<volume>57</volume>
+			<journal>Wirel. Pers. Commun.</journal>
+			<number>2</number>
+			<ee>https://doi.org/10.1007/s11277-009-9855-4</ee>
+			<url>db/journals/wpc/wpc57.html#DikmeseKKST11</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/iconip/SahinBY06" mdate="2017-05-24">
+			<author pid="74/2480">Suhap Sahin</author>
+			<author pid="82/5345">Yasar Becerikli</author>
+			<author pid="45/7023">Suleyman Yazici</author>
+			<title>Neural Network Implementation in Hardware Using FPGAs.</title>
+			<pages>1105-1112</pages>
+			<year>2006</year>
+			<crossref>conf/iconip/2006-3</crossref>
+			<booktitle>ICONIP (3)</booktitle>
+			<ee>https://doi.org/10.1007/11893295_122</ee>
+			<url>db/conf/iconip/iconip2006-3.html#SahinBY06</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/iswcs/SahinDKK06" mdate="2021-05-19">
+			<author pid="74/2480">Suhap Sahin</author>
+			<author orcid="0000-0002-0454-0050" pid="13/10351">Sener Dikmese</author>
+			<author pid="21/4523">Kerem Kucuk</author>
+			<author pid="86/3057">Adnan Kavak</author>
+			<title>A Comparative Study of Antenna Array Algorithm Implementations using FPGA and DSP for cdma2000.</title>
+			<pages>714-718</pages>
+			<year>2006</year>
+			<booktitle>ISWCS</booktitle>
+			<ee>https://doi.org/10.1109/ISWCS.2006.4362394</ee>
+			<crossref>conf/iswcs/2006</crossref>
+			<url>db/conf/iswcs/iswcs2006.html#SahinDKK06</url>
+		</inproceedings>
+	</r>
+	<coauthors n="24" nc="1">
+		<co c="0">
+			<na f="a/Altuncu:Mehmet_Ali" pid="225/2978">Mehmet Ali Altuncu</na>
+		</co>
+		<co c="-1">
+			<na f="b/Baysal:Adnan" pid="78/7604">Adnan Baysal</na>
+		</co>
+		<co c="0">
+			<na f="b/Becerikli:Yasar" pid="82/5345">Yasar Becerikli</na>
+		</co>
+		<co c="0">
+			<na f="=/=Ccedil=avuslu:Mehmet_Ali" pid="23/9404">Mehmet Ali Çavuslu</na>
+		</co>
+		<co c="0">
+			<na f="=/=Ccedil=avuslu:Metaet_Ali" pid="225/3300">Metaet Ali Çavuslu</na>
+		</co>
+		<co c="0">
+			<na f="d/Dikmese:Sener" pid="13/10351">Sener Dikmese</na>
+		</co>
+		<co c="0">
+			<na f="e/Eken:S=uuml=leyman" pid="121/2902">Süleyman Eken</na>
+		</co>
+		<co c="0">
+			<na f="g/G=uuml=lagiz:Fidan_Kaya" pid="144/4317">Fidan Kaya Gülagiz</na>
+		</co>
+		<co c="0">
+			<na f="h/Hangisi:Fatma_Selin" pid="218/2943">Fatma Selin Hangisi</na>
+		</co>
+		<co c="0">
+			<na f="i/Ilhan:Zana" pid="144/4531">Zana Ilhan</na>
+		</co>
+		<co c="0">
+			<na f="i/Ilkin:S=uuml=meyya" pid="218/2929">Sümeyya Ilkin</na>
+		</co>
+		<co c="0">
+			<na f="k/Karakuzu:Cihan" pid="11/6801">Cihan Karakuzu</na>
+		</co>
+		<co c="0">
+			<na f="k/Kavak:Adnan" pid="86/3057">Adnan Kavak</na>
+		</co>
+		<co c="0">
+			<na f="k/Kocasara=ccedil=:Umut" pid="144/4333">Umut Kocasaraç</na>
+		</co>
+		<co c="0">
+			<na f="k/Kosten:Mehmet_Muzaffer" pid="225/3405">Mehmet Muzaffer Kosten</na>
+		</co>
+		<co c="0">
+			<na f="k/Kucuk:Kerem" pid="21/4523">Kerem Kucuk</na>
+		</co>
+		<co c="0">
+			<na f="m/Mentesoglu:Mustafa" pid="258/0040">Mustafa Mentesoglu</na>
+		</co>
+		<co c="0">
+			<na f="o/Ozcan:Hikmetcan" pid="219/7923">Hikmetcan Ozcan</na>
+		</co>
+		<co c="0">
+			<na f="p/Pir:Fatih" pid="257/9923">Fatih Pir</na>
+		</co>
+		<co c="0">
+			<na f="s/Sayar:Ahmet" pid="74/5903">Ahmet Sayar</na>
+		</co>
+		<co c="0">
+			<na f="t/Tangel:Ali" pid="127/4793">Ali Tangel</na>
+		</co>
+		<co c="0">
+			<na f="t/Turkoglu:Bahadir" pid="225/3311">Bahadir Turkoglu</na>
+		</co>
+		<co c="0">
+			<na f="y/Yakut:Mehmet" pid="57/2641">Mehmet Yakut</na>
+		</co>
+		<co c="0">
+			<na f="y/Yazici:Suleyman" pid="45/7023">Suleyman Yazici</na>
+		</co>
+	</coauthors>
+</dblpperson>

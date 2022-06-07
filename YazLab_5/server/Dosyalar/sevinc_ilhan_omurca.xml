@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblpperson name="Sevinç Ilhan Omurca" pid="155/1060" n="12">
+   <person key="homepages/155/1060" mdate="2016-08-18">
+      <author pid="155/1060">Sevinç Ilhan Omurca</author>
+   </person>
+   <r>
+      <article key="journals/elektrik/EkinciO20" mdate="2021-07-25">
+         <author orcid="0000-0003-0658-592X" pid="158/0656">Ekin Ekinci</author>
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>NET-LDA: a novel topic modeling method based on semantic document similarity.</title>
+         <pages>2244-2260</pages>
+         <year>2020</year>
+         <volume>28</volume>
+         <journal>Turkish J. Electr. Eng. Comput. Sci.</journal>
+         <number>4</number>
+         <ee type="oa">https://doi.org/10.3906/elk-1912-62</ee>
+         <url>db/journals/elektrik/elektrik28.html#EkinciO20</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/iajit/KilimciO20" mdate="2022-04-09">
+         <author pid="124/7283">Zeynep Hilal Kilimci</author>
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>Enhancement of the heuristic optimization based on extended space forests using classifier ensembles.</title>
+         <pages>188-195</pages>
+         <year>2020</year>
+         <volume>17</volume>
+         <journal>Int. Arab J. Inf. Technol.</journal>
+         <number>2</number>
+         <ee type="oa">https://doi.org/10.34028/iajit/17/2/6</ee>
+         <url>db/journals/iajit/iajit17.html#KilimciO20</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/jis/EkinciO20" mdate="2022-04-09">
+         <author orcid="0000-0003-0658-592X" pid="158/0656">Ekin Ekinci</author>
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>Concept-LDA: Incorporating Babelfy into LDA for aspect extraction.</title>
+         <year>2020</year>
+         <volume>46</volume>
+         <journal>J. Inf. Sci.</journal>
+         <number>3</number>
+         <ee>https://doi.org/10.1177/0165551519845854</ee>
+         <url>db/journals/jis/jis46.html#EkinciO20</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/SevimEO20" mdate="2022-04-09">
+         <author orcid="0000-0002-2486-7704" pid="283/8095">Semih Sevim</author>
+         <author pid="158/0656">Ekin Ekinci</author>
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>Multi-view Document Classification with Co-training.</title>
+         <pages>1-4</pages>
+         <year>2020</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU49456.2020.9302494</ee>
+         <crossref>conf/siu/2020</crossref>
+         <url>db/conf/siu/siu2020.html#SevimEO20</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/iajit/EkinciS19" mdate="2021-04-28">
+         <author pid="158/0656">Ekin Ekinci</author>
+         <author pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>A new approach for a domain-independent turkish sentiment seed lexicon compilation.</title>
+         <pages>843-853</pages>
+         <year>2019</year>
+         <volume>16</volume>
+         <journal>Int. Arab J. Inf. Technol.</journal>
+         <number>5</number>
+         <ee type="oa" />
+         <url>db/journals/iajit/iajit16.html#EkinciS19</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/itc/KilimciO18" mdate="2021-02-16">
+         <author pid="124/7283">Zeynep Hilal Kilimci</author>
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>Extended Feature Spaces Based Classifier Ensembles for Sentiment Analysis of Short Texts.</title>
+         <pages>457-470</pages>
+         <year>2018</year>
+         <volume>47</volume>
+         <journal>Inf. Technol. Control.</journal>
+         <number>3</number>
+         <ee type="oa">https://doi.org/10.5755/j01.itc.47.3.20935</ee>
+         <url>db/journals/itc/itc47.html#KilimciO18</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/OmurcaE18" mdate="2022-04-09">
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <author pid="158/0656">Ekin Ekinci</author>
+         <title>Using Adjusted Laplace Smoothing to Extract Implicit Aspects from Turkish Hotel Reviews.</title>
+         <pages>1-6</pages>
+         <year>2018</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA.2018.8466288</ee>
+         <crossref>conf/inista/2018</crossref>
+         <url>db/conf/inista/inista2018.html#OmurcaE18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/KilimciAO17" mdate="2022-04-09">
+         <author pid="124/7283">Zeynep Hilal Kilimci</author>
+         <author pid="82/5323">Selim Akyokus</author>
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>The evaluation of heterogeneous classifier ensembles for Turkish texts.</title>
+         <pages>307-311</pages>
+         <year>2017</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA.2017.8001176</ee>
+         <crossref>conf/inista/2017</crossref>
+         <url>db/conf/inista/inista2017.html#KilimciAO17</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/aimsa/TurkmenEO16" mdate="2019-10-19">
+         <author pid="184/5353">Hazal Türkmen</author>
+         <author orcid="0000-0003-0658-592X" pid="158/0656">Ekin Ekinci</author>
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>A Novel Method for Extracting Feature Opinion Pairs for Turkish.</title>
+         <pages>162-171</pages>
+         <year>2016</year>
+         <booktitle>AIMSA</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-44748-3_16</ee>
+         <crossref>conf/aimsa/2016</crossref>
+         <url>db/conf/aimsa/aimsa2016.html#TurkmenEO16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/KilimciAO16" mdate="2022-04-09">
+         <author pid="124/7283">Zeynep Hilal Kilimci</author>
+         <author pid="82/5323">Selim Akyokus</author>
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>The effectiveness of homogenous ensemble classifiers for Turkish and English texts.</title>
+         <pages>1-7</pages>
+         <year>2016</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA.2016.7571854</ee>
+         <crossref>conf/inista/2016</crossref>
+         <url>db/conf/inista/inista2016.html#KilimciAO16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/OmurcaE15" mdate="2022-04-09">
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <author pid="158/0656">Ekin Ekinci</author>
+         <title>An alternative evaluation of post traumatic stress disorder with machine learning methods.</title>
+         <pages>1-7</pages>
+         <year>2015</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA.2015.7276754</ee>
+         <crossref>conf/inista/2015</crossref>
+         <url>db/conf/inista/inista2015.html#OmurcaE15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/asc/Omurca13" mdate="2019-10-19">
+         <author orcid="0000-0003-1214-9235" pid="155/1060">Sevinç Ilhan Omurca</author>
+         <title>An intelligent supplier evaluation, selection and development system.</title>
+         <pages>690-697</pages>
+         <year>2013</year>
+         <volume>13</volume>
+         <journal>Appl. Soft Comput.</journal>
+         <number>1</number>
+         <ee>https://doi.org/10.1016/j.asoc.2012.08.008</ee>
+         <url>db/journals/asc/asc13.html#Omurca13</url>
+      </article>
+   </r>
+   <coauthors n="5" nc="2">
+      <co c="1">
+         <na f="a/Akyokus:Selim" pid="82/5323">Selim Akyokus</na>
+      </co>
+      <co c="0">
+         <na f="e/Ekinci:Ekin" pid="158/0656">Ekin Ekinci</na>
+      </co>
+      <co c="1">
+         <na f="k/Kilimci:Zeynep_Hilal" pid="124/7283">Zeynep Hilal Kilimci</na>
+      </co>
+      <co c="0">
+         <na f="s/Sevim:Semih" pid="283/8095">Semih Sevim</na>
+      </co>
+      <co c="0">
+         <na f="t/T=uuml=rkmen:Hazal" pid="184/5353">Hazal Türkmen</na>
+      </co>
+   </coauthors>
+</dblpperson>

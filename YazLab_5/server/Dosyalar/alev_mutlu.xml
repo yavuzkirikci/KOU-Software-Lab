@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblpperson name="Alev Mutlu" pid="53/10411" n="27">
+   <person key="homepages/53/10411" mdate="2011-11-08">
+      <author pid="53/10411">Alev Mutlu</author>
+   </person>
+   <r>
+      <article key="journals/cj/MutluG22" mdate="2022-04-05">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author pid="201/1926">Furkan Göz</author>
+         <title>
+            : A Hybrid Method for Landslide Susceptibility Assessment based on Landslide-Occurring Data Only.
+         </title>
+         <pages>473-483</pages>
+         <year>2022</year>
+         <volume>65</volume>
+         <journal>Comput. J.</journal>
+         <number>3</number>
+         <ee>https://doi.org/10.1093/comjnl/bxaa063</ee>
+         <url>db/journals/cj/cj65.html#MutluG22</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/inista/GozSMKT21" mdate="2021-10-07">
+         <author pid="201/1926">Furkan Göz</author>
+         <author pid="303/3942">Fehmi Sener</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <author pid="297/6411">Kerem Küçük</author>
+         <author pid="297/6826">Mahir Temur</author>
+         <title>Learning to Rank for Text Summarization: Revisiting the Features and Methods for Turkish Bank Documents.</title>
+         <pages>1-5</pages>
+         <year>2021</year>
+         <booktitle>INISTA</booktitle>
+         <ee>https://doi.org/10.1109/INISTA52262.2021.9548536</ee>
+         <crossref>conf/inista/2021</crossref>
+         <url>db/conf/inista/inista2021.html#GozSMKT21</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/GozMKTG21" mdate="2021-07-23">
+         <author pid="201/1926">Furkan Göz</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <author pid="297/6411">Kerem Küçük</author>
+         <author pid="297/6826">Mahir Temur</author>
+         <author pid="297/6594">Abdurrahman Gün</author>
+         <title>Effect of Centrality Measures for Keyword Extraction from Turkish Documents.</title>
+         <pages>1-4</pages>
+         <year>2021</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU53274.2021.9477807</ee>
+         <crossref>conf/siu/2021</crossref>
+         <url>db/conf/siu/siu2021.html#GozMKTG21</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/i2mtc/KaraboceMCOD20" mdate="2021-04-09">
+         <author pid="157/3524">Baki Karaböce</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1144-1584" pid="184/3108">Emel Çetin</author>
+         <author pid="203/3127">Mithat Özdingis</author>
+         <author pid="184/2954">Hüseyin Okan Durmus</author>
+         <title>Ultrasonic Power Calculation by Linear Regression Method.</title>
+         <pages>1-5</pages>
+         <year>2020</year>
+         <booktitle>I2MTC</booktitle>
+         <ee>https://doi.org/10.1109/I2MTC43012.2020.9129334</ee>
+         <crossref>conf/i2mtc/2020</crossref>
+         <url>db/conf/i2mtc/i2mtc2020.html#KaraboceMCOD20</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/GozKM20" mdate="2021-05-19">
+         <author pid="201/1926">Furkan Göz</author>
+         <author pid="283/8821">Osman Kabasakal</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <title>Experimental Analysis of Keyword-based Social Network Similarity Approach for Document Classification.</title>
+         <pages>1-4</pages>
+         <year>2020</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU49456.2020.9302224</ee>
+         <crossref>conf/siu/2020</crossref>
+         <url>db/conf/siu/siu2020.html#GozKM20</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/elektrik/MutluGA19" mdate="2021-09-16">
+         <author orcid="0000-0003-0547-0653" pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0002-6726-3679" pid="201/1926">Furkan Göz</author>
+         <author orcid="0000-0003-0096-0688" pid="28/2694">Orhan Akbulut</author>
+         <title>lFIT: an unsupervised discretization method based on the Ramer-Douglas-Peucker algorithm.</title>
+         <pages>2344-2360</pages>
+         <year>2019</year>
+         <volume>27</volume>
+         <journal>Turkish J. Electr. Eng. Comput. Sci.</journal>
+         <number>3</number>
+         <ee type="oa">https://doi.org/10.3906/elk-1806-192</ee>
+         <url>db/journals/elektrik/elektrik27.html#MutluGA19</url>
+      </article>
+   </r>
+   <r>
+      <article key="journals/ijea/ArpaciDM19" mdate="2021-10-14">
+         <author orcid="0000-0001-6513-4569" pid="28/9535">Ibrahim Arpaci</author>
+         <author orcid="0000-0002-0439-1702" pid="66/7706">Pinar Onay Durdu</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <title>The Role of Self-Efficacy and Perceived Enjoyment in Predicting Computer Engineering Students' Continuous Use Intention of Scratch.</title>
+         <pages>1-12</pages>
+         <year>2019</year>
+         <volume>11</volume>
+         <journal>Int. J. E Adopt.</journal>
+         <number>2</number>
+         <ee>https://doi.org/10.4018/IJEA.2019070101</ee>
+         <url>db/journals/ijea/ijea11.html#ArpaciDM19</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/ic3k/ErdemirGMK19" mdate="2021-05-19">
+         <author pid="251/0475">Mert Erdemir</author>
+         <author pid="201/1926">Furkan Göz</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+         <title>Comparison of Querying Performance of Neo4j on Graph and Hyper-graph Data Model.</title>
+         <pages>397-404</pages>
+         <year>2019</year>
+         <booktitle>KDIR</booktitle>
+         <ee>https://doi.org/10.5220/0008214503970404</ee>
+         <crossref>conf/ic3k/2019kdir</crossref>
+         <url>db/conf/ic3k/kdir2019.html#ErdemirGMK19</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/wims/YukselenMK19" mdate="2020-12-29">
+         <author pid="241/6447">Murat Yukselen</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+         <title>Infuencee Oriented Topic Prediction: Investigating the Effect of Influence on the Author.</title>
+         <pages>14:1-14:9</pages>
+         <year>2019</year>
+         <booktitle>WIMS</booktitle>
+         <ee>https://doi.org/10.1145/3326467.3326488</ee>
+         <crossref>conf/wims/2019</crossref>
+         <url>db/conf/wims/wims2019.html#YukselenMK19</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/hais/GozM18" mdate="2021-05-19">
+         <author pid="201/1926">Furkan Göz</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <title>Learning Logical Definitions of n-Ary Relations in Graph Databases.</title>
+         <pages>50-61</pages>
+         <year>2018</year>
+         <booktitle>HAIS</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-92639-1_5</ee>
+         <crossref>conf/hais/2018</crossref>
+         <url>db/conf/hais/hais2018.html#GozM18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/siu/GozMA18" mdate="2021-05-19">
+         <author pid="201/1926">Furkan Göz</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <author pid="28/2694">Orhan Akbulut</author>
+         <title>Analysis of Ramer-Douglas-Peucker algorithm as a discretization method.</title>
+         <pages>1-4</pages>
+         <year>2018</year>
+         <booktitle>SIU</booktitle>
+         <ee>https://doi.org/10.1109/SIU.2018.8404748</ee>
+         <crossref>conf/siu/2018</crossref>
+         <url>db/conf/siu/siu2018.html#GozMA18</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/hais/GozM17" mdate="2021-05-19">
+         <author pid="201/1926">Furkan Göz</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <title>Concept Discovery in Graph Databases - A Case Study with Neo4j.</title>
+         <pages>63-74</pages>
+         <year>2017</year>
+         <booktitle>HAIS</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-59650-1_6</ee>
+         <crossref>conf/hais/2017</crossref>
+         <url>db/conf/hais/hais2017.html#GozM17</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/jiis/MutluK16" mdate="2020-12-29">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+         <title>Policy-based memoization for ILP-based concept discovery systems.</title>
+         <pages>99-120</pages>
+         <year>2016</year>
+         <volume>46</volume>
+         <journal>J. Intell. Inf. Syst.</journal>
+         <number>1</number>
+         <ee>https://doi.org/10.1007/s10844-015-0354-7</ee>
+         <url>db/journals/jiis/jiis46.html#MutluK16</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/iccci/PekerM16" mdate="2017-05-22">
+         <author pid="185/8738">Nuran Peker</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <title>A Graph-Path Counting Approach for Learning Head Output Connected Relations.</title>
+         <pages>387-396</pages>
+         <year>2016</year>
+         <booktitle>ICCCI (2)</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-45246-3_37</ee>
+         <crossref>conf/iccci/2016-2</crossref>
+         <url>db/conf/iccci/iccci2016-2.html#PekerM16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/iscis/DoganMK16" mdate="2021-10-14">
+         <author orcid="0000-0003-3709-2642" pid="154/8020">Abdullah Dogan</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+         <title>Cosine Similarity-Based Pruning for Concept Discovery.</title>
+         <pages>90-96</pages>
+         <year>2016</year>
+         <booktitle>ISCIS</booktitle>
+         <ee type="oa">https://doi.org/10.1007/978-3-319-47217-1_10</ee>
+         <crossref>conf/iscis/2016</crossref>
+         <url>db/conf/iscis/iscis2016.html#DoganMK16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/sac/RahimiaghdamKM16" mdate="2020-12-29">
+         <author pid="180/8315">Shakiba Rahimiaghdam</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <title>Personalized time-aware outdoor activity recommendation system.</title>
+         <pages>1121-1126</pages>
+         <year>2016</year>
+         <booktitle>SAC</booktitle>
+         <ee>https://doi.org/10.1145/2851613.2851814</ee>
+         <crossref>conf/sac/2016</crossref>
+         <url>db/conf/sac/sac2016.html#RahimiaghdamKM16</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/dawak/AbayMK15" mdate="2020-12-29">
+         <author pid="166/5297">Nazmiye Ceren Abay</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+         <title>A Graph-Based Concept Discovery Method for n-Ary Relations.</title>
+         <pages>391-402</pages>
+         <year>2015</year>
+         <booktitle>DaWaK</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-22729-0_30</ee>
+         <crossref>conf/dawak/2015</crossref>
+         <url>db/conf/dawak/dawak2015.html#AbayMK15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/iisa/AbayMK15" mdate="2020-12-29">
+         <author pid="166/5297">Nazmiye Ceren Abay</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+         <title>A path-finding based method for concept discovery in graphs.</title>
+         <pages>1-6</pages>
+         <year>2015</year>
+         <booktitle>IISA</booktitle>
+         <ee>https://doi.org/10.1109/IISA.2015.7388092</ee>
+         <crossref>conf/iisa/2015</crossref>
+         <url>db/conf/iisa/iisa2015.html#AbayMK15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/uyms/TurdalievBDDIM15" mdate="2019-05-28">
+         <author pid="174/8657">Nursultan Turdaliev</author>
+         <author pid="174/8604">Burcu Bilgin</author>
+         <author pid="174/8935">Gencay Deniz</author>
+         <author pid="66/7706">Pinar Onay Durdu</author>
+         <author pid="124/4076">Davut Incebacak</author>
+         <author pid="53/10411">Alev Mutlu</author>
+         <title>UYMS Araştırma Eğilimleri: Bir Sistematik Eşleme Çalışması.</title>
+         <year>2015</year>
+         <booktitle>UYMS</booktitle>
+         <ee type="oa">http://ceur-ws.org/Vol-1483/58_Bildiri.pdf</ee>
+         <crossref>conf/uyms/2015</crossref>
+         <url>db/conf/uyms/uyms2015.html#TurdalievBDDIM15</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/cj/MutluS14" mdate="2020-12-29">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Senkul</author>
+         <title>Improving Hit Ratio of ILP-based Concept Discovery System with Memoization.</title>
+         <pages>138-153</pages>
+         <year>2014</year>
+         <volume>57</volume>
+         <journal>Comput. J.</journal>
+         <number>1</number>
+         <ee>https://doi.org/10.1093/comjnl/bxs163</ee>
+         <url>db/journals/cj/cj57.html#MutluS14</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/iscis/MutluDK14" mdate="2017-05-26">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author pid="154/8020">Abdullah Dogan</author>
+         <author pid="s/PinarSenkul">Pinar Karagoz</author>
+         <title>Utilizing Coverage Lists as a Pruning Mechanism for Concept Discovery.</title>
+         <pages>269-276</pages>
+         <year>2014</year>
+         <booktitle>ISCIS</booktitle>
+         <ee>https://doi.org/10.1007/978-3-319-09465-6_28</ee>
+         <crossref>conf/iscis/2014</crossref>
+         <url>db/conf/iscis/iscis2014.html#MutluDK14</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/dawak/MutluK13" mdate="2020-12-29">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+         <title>A Hybrid Graph-Based Method for Concept Rule Discovery.</title>
+         <pages>327-338</pages>
+         <year>2013</year>
+         <booktitle>DaWaK</booktitle>
+         <ee>https://doi.org/10.1007/978-3-642-40131-2_29</ee>
+         <crossref>conf/dawak/2013</crossref>
+         <url>db/conf/dawak/dawak2013.html#MutluK13</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/hais/MutluKK13" mdate="2020-12-29">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Karagoz</author>
+         <author pid="99/4801">Yusuf Kavurucu</author>
+         <title>A Counting-Based Heuristic for ILP-Based Concept Discovery Systems.</title>
+         <pages>171-180</pages>
+         <year>2013</year>
+         <booktitle>HAIS</booktitle>
+         <ee>https://doi.org/10.1007/978-3-642-40846-5_18</ee>
+         <crossref>conf/hais/2013</crossref>
+         <url>db/conf/hais/hais2013.html#MutluKK13</url>
+      </inproceedings>
+   </r>
+   <r>
+      <article key="journals/kbs/MutluSK12" mdate="2020-12-29">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Senkul</author>
+         <author pid="99/4801">Yusuf Kavurucu</author>
+         <title>Improving the scalability of ILP-based multi-relational concept discovery system through parallelization.</title>
+         <pages>352-368</pages>
+         <year>2012</year>
+         <volume>27</volume>
+         <journal>Knowl. Based Syst.</journal>
+         <ee>https://doi.org/10.1016/j.knosys.2011.11.001</ee>
+         <url>db/journals/kbs/kbs27.html#MutluSK12</url>
+      </article>
+   </r>
+   <r>
+      <inproceedings key="conf/iscis/MutluS12" mdate="2017-05-26">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author pid="s/PinarSenkul">Pinar Senkul</author>
+         <title>Improving Hash Table Hit Ratio of an ILP-Based Concept Discovery System with Memoization Capabilities.</title>
+         <pages>261-269</pages>
+         <year>2012</year>
+         <booktitle>ISCIS</booktitle>
+         <ee>https://doi.org/10.1007/978-1-4471-4594-3_27</ee>
+         <crossref>conf/iscis/2012</crossref>
+         <url>db/conf/iscis/iscis2012.html#MutluS12</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/icmla/MutluSK11" mdate="2020-12-29">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Senkul</author>
+         <author pid="99/4801">Yusuf Kavurucu</author>
+         <title>MPI-based Parallelization for ILP-based Multi-relational Concept Discovery.</title>
+         <pages>59-62</pages>
+         <year>2011</year>
+         <booktitle>ICMLA (1)</booktitle>
+         <ee>https://doi.org/10.1109/ICMLA.2011.98</ee>
+         <ee>http://doi.ieeecomputersociety.org/10.1109/ICMLA.2011.98</ee>
+         <crossref>conf/icmla/2011-1</crossref>
+         <url>db/conf/icmla/icmla2011-1.html#MutluSK11</url>
+      </inproceedings>
+   </r>
+   <r>
+      <inproceedings key="conf/iscis/MutluBS10" mdate="2020-12-29">
+         <author pid="53/10411">Alev Mutlu</author>
+         <author pid="36/10411">Mehmet Ali Berk</author>
+         <author orcid="0000-0003-1366-8395" pid="s/PinarSenkul">Pinar Senkul</author>
+         <title>Improving the Time Efficiency of ILP-based Multi-Relational Concept Discovery with Dynamic Programming Approach.</title>
+         <pages>373-376</pages>
+         <year>2010</year>
+         <booktitle>ISCIS</booktitle>
+         <ee>https://doi.org/10.1007/978-90-481-9794-1_69</ee>
+         <crossref>conf/iscis/2010</crossref>
+         <url>db/conf/iscis/iscis2010.html#MutluBS10</url>
+      </inproceedings>
+   </r>
+   <coauthors n="26" nc="2">
+      <co c="0">
+         <na f="a/Abay:Nazmiye_Ceren" pid="166/5297">Nazmiye Ceren Abay</na>
+      </co>
+      <co c="0">
+         <na f="a/Akbulut:Orhan" pid="28/2694">Orhan Akbulut</na>
+      </co>
+      <co c="0">
+         <na f="a/Arpaci:Ibrahim" pid="28/9535">Ibrahim Arpaci</na>
+      </co>
+      <co c="0">
+         <na f="b/Berk:Mehmet_Ali" pid="36/10411">Mehmet Ali Berk</na>
+      </co>
+      <co c="0">
+         <na f="b/Bilgin:Burcu" pid="174/8604">Burcu Bilgin</na>
+      </co>
+      <co c="1">
+         <na f="=/=Ccedil=etin:Emel" pid="184/3108">Emel Çetin</na>
+      </co>
+      <co c="0">
+         <na f="d/Deniz:Gencay" pid="174/8935">Gencay Deniz</na>
+      </co>
+      <co c="0">
+         <na f="d/Dogan:Abdullah" pid="154/8020">Abdullah Dogan</na>
+      </co>
+      <co c="0">
+         <na f="d/Durdu:Pinar_Onay" pid="66/7706">Pinar Onay Durdu</na>
+      </co>
+      <co c="1">
+         <na f="d/Durmus:H=uuml=seyin_Okan" pid="184/2954">Hüseyin Okan Durmus</na>
+      </co>
+      <co c="0">
+         <na f="e/Erdemir:Mert" pid="251/0475">Mert Erdemir</na>
+      </co>
+      <co c="0">
+         <na f="g/G=ouml=z:Furkan" pid="201/1926">Furkan Göz</na>
+      </co>
+      <co c="0">
+         <na f="g/G=uuml=n:Abdurrahman" pid="297/6594">Abdurrahman Gün</na>
+      </co>
+      <co c="0">
+         <na f="i/Incebacak:Davut" pid="124/4076">Davut Incebacak</na>
+      </co>
+      <co c="0">
+         <na f="k/Kabasakal:Osman" pid="283/8821">Osman Kabasakal</na>
+      </co>
+      <co c="1">
+         <na f="k/Karab=ouml=ce:Baki" pid="157/3524">Baki Karaböce</na>
+      </co>
+      <co c="0" n="3">
+         <na f="k/Karag=ouml=z:Pinar" pid="s/PinarSenkul">Pinar Karagöz</na>
+         <na>Pinar Karagoz</na>
+         <na>Pinar Senkul</na>
+      </co>
+      <co c="0">
+         <na f="k/Kavurucu:Yusuf" pid="99/4801">Yusuf Kavurucu</na>
+      </co>
+      <co c="0">
+         <na f="k/K=uuml==ccedil==uuml=k:Kerem" pid="297/6411">Kerem Küçük</na>
+      </co>
+      <co c="1">
+         <na f="=/=Ouml=zdingis:Mithat" pid="203/3127">Mithat Özdingis</na>
+      </co>
+      <co c="-1">
+         <na f="p/Peker:Nuran" pid="185/8738">Nuran Peker</na>
+      </co>
+      <co c="0">
+         <na f="r/Rahimiaghdam:Shakiba" pid="180/8315">Shakiba Rahimiaghdam</na>
+      </co>
+      <co c="0">
+         <na f="s/Sener:Fehmi" pid="303/3942">Fehmi Sener</na>
+      </co>
+      <co c="0">
+         <na f="t/Temur:Mahir" pid="297/6826">Mahir Temur</na>
+      </co>
+      <co c="0">
+         <na f="t/Turdaliev:Nursultan" pid="174/8657">Nursultan Turdaliev</na>
+      </co>
+      <co c="0">
+         <na f="y/Yukselen:Murat" pid="241/6447">Murat Yukselen</na>
+      </co>
+   </coauthors>
+</dblpperson>
