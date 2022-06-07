@@ -1,0 +1,13 @@
+Client Tarafı için :
+
+- Proje Dosyalarının bulunduğu dizinde bir terminal açın.
+- cd client
+- npm install
+- npm start
+
+Server Tarafı için:
+
+- Proje Dosyalarının bulunduğu dizinde bir terminal açın.
+- cd server
+- npm install
+- npm start
